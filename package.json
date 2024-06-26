@@ -14,5 +14,8 @@
     "react-dom": "^18",
     "swiper": "^11.0.6",
     "waypoints": "^4.0.1"
-  }
+  },
+  "engines": {
+  "node": ">=14.0.0"
+}
 }
