@@ -4,7 +4,7 @@ import BlogComponent from "@components/BlogComponent";
 import Drops from "@components/Drops";
 import ServicesComponent from "@components/ServicesComponent";
 import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
-import { Autoplay, EffectCreative } from "swiper";
+import { EffectCreative, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 const HalfSlider = () => {
