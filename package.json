@@ -410,5 +410,10 @@
       "resolved": "https://registry.npmjs.org/waypoints/-/waypoints-4.0.1.tgz",
       "integrity": "sha512-PbydbsTvCFYoE1DaRAKBM4xPQi+7ULcULZ7vK79NLM55da5g46oyY62Xv9X5Z9F7O/qXmcS/XJ7Ae2pYij4bpw=="
     }
+  },
+  "dependencies": {
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
