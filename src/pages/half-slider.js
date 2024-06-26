@@ -6,6 +6,8 @@ import ServicesComponent from "@components/ServicesComponent";
 import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
 import { Autoplay, EffectCreative } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { Swiper, EffectCreative, Autoplay } from 'swiper';
+import 'swiper/swiper-bundle.css'; // Importe os estilos, se necessário
 
 const HalfSlider = () => {
   return (
