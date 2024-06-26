@@ -1,17 +1,6 @@
 {
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/api/hello": "pages/api/hello.js",
-  "/about": "pages/about.js",
-  "/blog-single": "pages/blog-single.js",
-  "/blog": "pages/blog.js",
-  "/contact": "pages/contact.js",
-  "/half-kenburns": "pages/half-kenburns.js",
-  "/half-slider": "pages/half-slider.js",
-  "/index copy": "pages/index copy.js",
-  "/": "pages/index.js",
-  "/kenburns": "pages/kenburns.js",
-  "/roadmap-single": "pages/roadmap-single.js",
-  "/roadmap": "pages/roadmap.js"
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
 }
