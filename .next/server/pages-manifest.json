@@ -9,8 +9,8 @@
   "/contact": "pages/contact.js",
   "/half-kenburns": "pages/half-kenburns.js",
   "/half-slider": "pages/half-slider.js",
-  "/index copy": "pages/index copy.js",
   "/": "pages/index.js",
+  "/index copy": "pages/index copy.js",
   "/kenburns": "pages/kenburns.js",
   "/roadmap-single": "pages/roadmap-single.js",
   "/roadmap": "pages/roadmap.js"
