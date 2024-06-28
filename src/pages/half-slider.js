@@ -7,8 +7,6 @@ import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
 import { EffectCreative, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-Swiper.use([Autoplay, EffectCreative]);
-
 const HalfSlider = () => {
   return (
     <Layout pageName={"Home Half Slider"}>
