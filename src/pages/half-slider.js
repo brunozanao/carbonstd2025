@@ -18,7 +18,6 @@ import SwiperCore, { Autoplay, EffectCreative } from 'swiper';
 
 // Install modules
 SwiperCore.use([Autoplay, EffectCreative]);
-import React, { useContext } from 'react';
 
 const HalfSlider = () => {
   return (
