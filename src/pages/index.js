@@ -7,7 +7,7 @@ import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
 
 const Index = () => {
   return (
-    <Layout pageName={"Home Static"}>
+    <Layout pageName={"Home"}>
       {/* Hero Header */}
       <div className="neoh_fn_hero">
         {/* Overlay (of hero header) */}
