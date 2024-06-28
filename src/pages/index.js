@@ -24,11 +24,10 @@ const Index = () => {
           <div className="container">
             <div className="content">
               <h2 className="fn_title" title="Neoh">
-                Neoh
+              𝗦𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗕𝗼𝗻𝗱𝘀 + 𝗡𝗙𝗧 = 𝗥𝗲𝗙𝗶
               </h2>
               <p className="fn_desc fn_animated_text">
-                The collection built by and runby codeefly. Together we are
-                strong than ever.
+              The Future is Green, And it Goes Beyond the Carbon Market and Blockchain.
               </p>
             </div>
           </div>
