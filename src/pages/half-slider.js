@@ -4,8 +4,11 @@ import BlogComponent from "@components/BlogComponent";
 import Drops from "@components/Drops";
 import ServicesComponent from "@components/ServicesComponent";
 import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
-import { EffectCreative, Autoplay } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/swiper-bundle.min.css';
+import SwiperCore, { Autoplay, EffectCreative } from 'swiper';
+SwiperCore.use([Autoplay, EffectCreative]);
+import React, { useContext } from 'react';
 
 const HalfSlider = () => {
   return (
