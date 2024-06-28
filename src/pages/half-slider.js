@@ -4,20 +4,9 @@ import BlogComponent from "@components/BlogComponent";
 import Drops from "@components/Drops";
 import ServicesComponent from "@components/ServicesComponent";
 import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
-// Import Swiper React components
-import React from 'react';
-import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
-import 'swiper/swiper.min.css'; // ou 'swiper/swiper-bundle.min.css'
-import 'swiper/components/effect-creative/effect-creative.min.css'; // se você estiver usando EffectCreative
-import 'swiper/components/autoplay/autoplay.min.css'; // se você estiver usando Autoplay
-
-// Import Swiper core and required modules
-import SwiperCore, { Autoplay, EffectCreative } from 'swiper';
-
-// Install modules
-SwiperCore.use([Autoplay, EffectCreative]);
+import { Swiper, SwiperSlide } from "swiper/react";
+import 'swiper/swiper-bundle.min.css'
+import 'swiper/swiper.min.css'
 
 const HalfSlider = () => {
   return (
