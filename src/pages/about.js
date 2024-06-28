@@ -16,25 +16,31 @@ const About = () => {
               </div>
               <div className="content_item">
                 <div className="neoh_fn_title" data-align="left">
-                  <h3 className="fn_title">The Rise of Neoh</h3>
+                  <h3 className="fn_title">The Future Of Humanity.</h3>
                   <div className="line">
                     <span />
                   </div>
                 </div>
                 <div className="desc">
                   <p>
-                    As the first hero of the Neoh Universe, collection has over
-                    9,999 unique skins drawn from the different missions and
-                    challenges he faced throughout his life.
+                  In the vast greenery of the Forests, where the sounds of nature weave a divine symphony and the vegetation stands as a living testament to the wonder of creation, we, at Carbon.Std, uphold our commitment as guardians of tomorrow.
                   </p>
                   <p>
-                    The artwork has been hand-drawned by Robert Green in the
-                    traditional anime style and composited by Layla Efiyo.
+                  We passionately believe that forest preservation is the silver thread that connects humanity to its destiny.
+                  </p>
+                  <p >Every root intertwined in the moist soil, every leaf turning towards the sky, every creature dancing under the green canopy, are precious fragments of what makes us human. The Forest is more than just a forest; it is an ancestral tale of balance and harmony.</p>
+                  <p>To preserve this sanctuary is to embrace our own heritage and ensure a legacy of beauty for generations to come.</p>
+                  <p>By protecting the Forests, we are weaving the fibers of the future. It is the key to climate stability, the source of unexplored medicines, and a refuge for countless forms of life.</p>
+                  <p>
+                  In every leaf that sways gently in the wind, in every drop of rain that nourishes the earth, we feel the pulse of the future. The Forest is our shared heritage, our guiding beacon amid the uncertainties of time.
+                  </p>
+                  <p>
+                  Every step taken in its defense is an affirmation of our dedication to the well-being of the Earth and all its inhabitants.
                   </p>
                 </div>
                 <div className="buttons">
                   <a
-                    href="https://opensea.io/"
+                    href="https://opensea.io/CarbonStd"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button"
@@ -45,7 +51,7 @@ const About = () => {
                     <span className="text">OpenSea</span>
                   </a>
                   <a
-                    href="https://discord.com/"
+                    href="https://discord.com/invite/sDMzchFsmp"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button"
