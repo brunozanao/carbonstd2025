@@ -19,7 +19,10 @@
         "react-dom": "^18",
         "swiper": "^11.0.6",
         "waypoints": "^4.0.1"
-      }
+      },
+      "engines": {
+  "node": "20.x"
+}
     },
     "node_modules/@next/env": {
       "version": "14.1.0",
