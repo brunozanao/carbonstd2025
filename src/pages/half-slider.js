@@ -4,14 +4,15 @@ import BlogComponent from "@components/BlogComponent";
 import Drops from "@components/Drops";
 import ServicesComponent from "@components/ServicesComponent";
 import WhyChooseUsComponent from "@components/WhyChooseUsComponent";
-// Import Swiper React components
-import React, { useContext } from 'react';
+
+// Import React e Swiper
+import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
-import 'swiper/swiper.min.css'; // ou 'swiper/swiper-bundle.min.css'
-import 'swiper/components/effect-creative/effect-creative.min.css'; // se você estiver usando EffectCreative
-import 'swiper/components/autoplay/autoplay.min.css'; // se você estiver usando Autoplay
+import 'swiper/css'; // Swiper core styles
+import 'swiper/css/effect-creative'; // EffectCreative styles
+import 'swiper/css/autoplay'; // Autoplay styles
 
 // Import Swiper core and required modules
 import SwiperCore, { Autoplay, EffectCreative } from 'swiper';
@@ -43,26 +44,23 @@ const HalfSlider = () => {
                   translate: ["100%", 0, 0],
                 },
               }}
-              modules={[EffectCreative, Autoplay]}
               className="swiper-container"
             >
-              <div className="swiper-wrapper">
-                <SwiperSlide className="swiper-slide">
-                  <div className="main_image" data-bg-img="img/drops/1.jpg" />
-                </SwiperSlide>
-                <SwiperSlide className="swiper-slide">
-                  <div className="main_image" data-bg-img="img/drops/2.jpg" />
-                </SwiperSlide>
-                <SwiperSlide className="swiper-slide">
-                  <div className="main_image" data-bg-img="img/drops/3.jpg" />
-                </SwiperSlide>
-                <SwiperSlide className="swiper-slide">
-                  <div className="main_image" data-bg-img="img/drops/4.jpg" />
-                </SwiperSlide>
-                <SwiperSlide className="swiper-slide">
-                  <div className="main_image" data-bg-img="img/drops/5.jpg" />
-                </SwiperSlide>
-              </div>
+              <SwiperSlide>
+                <div className="main_image" data-bg-img="img/drops/1.jpg" />
+              </SwiperSlide>
+              <SwiperSlide>
+                <div className="main_image" data-bg-img="img/drops/2.jpg" />
+              </SwiperSlide>
+              <SwiperSlide>
+                <div className="main_image" data-bg-img="img/drops/3.jpg" />
+              </SwiperSlide>
+              <SwiperSlide>
+                <div className="main_image" data-bg-img="img/drops/4.jpg" />
+              </SwiperSlide>
+              <SwiperSlide>
+                <div className="main_image" data-bg-img="img/drops/5.jpg" />
+              </SwiperSlide>
             </Swiper>
           </div>
           {/* !Overlay Slider */}
@@ -107,4 +105,5 @@ const HalfSlider = () => {
     </Layout>
   );
 };
+
 export default HalfSlider;
