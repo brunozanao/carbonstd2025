@@ -8,6 +8,8 @@ import Swiper, { Autoplay, EffectCreative } from 'swiper';
 import { Swiper as SwiperComponent, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.css';
 
+Swiper.use([Autoplay, EffectCreative]);
+
 const HalfSlider = () => {
   return (
     <Layout pageName={"Home Half Slider"}>
