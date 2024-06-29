@@ -47,7 +47,7 @@ const Index = () => {
       <AboutComponent />
       {/* !About Section */}
       {/* Services Section */}
-      <ServicesComponent />
+      {/* <ServicesComponent /> */}
       {/* !Services Section */}
       <Drops />
       {/* Investor Section */}
