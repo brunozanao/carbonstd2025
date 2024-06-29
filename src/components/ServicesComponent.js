@@ -16,7 +16,7 @@ const ServicesComponent = () => {
       <div className="container">
         {/* Main Title */}
         <div className="neoh_fn_title">
-          <h3 className="fn_title">Why Choose Us?</h3>
+          <h3 className="fn_title">A Universe Composed of Various Rarities</h3>
           <div className="line">
             <span />
           </div>
@@ -31,11 +31,9 @@ const ServicesComponent = () => {
                   <span>01</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Huge Collection</h3>
+                  <h3 className="fn_title">Humans</h3>
                   <p className="fn_desc fn_animated_text">
-                    A collection of 5,000 unique NEOHs built to go beyond the
-                    digital space that will unlock numerous benefits for our
-                    community.
+                  HUMANS are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
                 </div>
               </div>
@@ -46,11 +44,9 @@ const ServicesComponent = () => {
                   <span>02</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">High Quality</h3>
+                  <h3 className="fn_title">Zenon</h3>
                   <p className="fn_desc fn_animated_text">
-                    The NEOH collection includes dozens of rare heads, costumes,
-                    and colorways of the artists palette. They are drawn with
-                    great care.
+                  ZENON are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
                 </div>
               </div>
@@ -61,11 +57,9 @@ const ServicesComponent = () => {
                   <span>03</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Top Resource</h3>
+                  <h3 className="fn_title">Ecoans</h3>
                   <p className="fn_desc fn_animated_text">
-                    Tasty design resources made with care for each pixel.
-                    Tokens, NFTs, metaverse and game resources. Access
-                    additional drops.
+                  ECOANS are humans who have merged their spirits with ethereal forces, transforming into a new race.
                   </p>
                 </div>
               </div>
@@ -76,11 +70,9 @@ const ServicesComponent = () => {
                   <span>04</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Big Community</h3>
+                  <h3 className="fn_title">Abyssus</h3>
                   <p className="fn_desc fn_animated_text">
-                    Be part of a community of neoh owners and create user
-                    generated items. Rent, advertise, lounch stores, create
-                    items.
+                  ABYSSUS are abyssal creatures that were summoned against their will.
                   </p>
                 </div>
               </div>
