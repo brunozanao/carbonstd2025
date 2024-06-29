@@ -275,7 +275,7 @@ const Timeline = () => {
                     </div>
                   </div>
                 </div>
-                <div className="t_item_info">
+                {/* <div className="t_item_info">
                   <p className="fn_date">
                     <span>July 01, 2022</span>
                   </p>
@@ -297,7 +297,7 @@ const Timeline = () => {
                       </a>
                     </Link>
                   </p>
-                </div>
+                </div> */}
               </div>
             </li>
           </ul>
@@ -392,7 +392,7 @@ const Timeline = () => {
                     />
                   </a>
                 </li>
-                <li className={activeClass(7)}>
+                {/* <li className={activeClass(7)}>
                   <a onClick={() => onClick(7)}>
                     <span className="text">UNDEFINED</span>
                     <span
@@ -400,7 +400,7 @@ const Timeline = () => {
                       style={{ filter: `brightness(${filter(7)}%)` }}
                     />
                   </a>
-                </li>
+                </li> */}
               </ul>
               <span className="active_line" />
             </div>
