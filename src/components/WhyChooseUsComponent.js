@@ -85,6 +85,12 @@ const WhyChooseUsComponent = () => {
                 <a href="#" className="full_link" />
               </div>
             </li>
+            li>
+              <div className="item">
+                <img src="img/investors/11.png" alt="" />
+                <a href="#" className="full_link" />
+              </div>
+            </li>
           </ul>
         </div>
         {/* !Investor List Shortcode */}
