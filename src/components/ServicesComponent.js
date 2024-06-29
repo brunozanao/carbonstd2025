@@ -77,32 +77,6 @@ const ServicesComponent = () => {
                 </div>
               </div>
             </li>
-            <li>
-              <div className="item">
-                <div className="item_num">
-                  <span>05</span>
-                </div>
-                <div className="item_content">
-                  <h3 className="fn_title">Robots</h3>
-                  <p className="fn_desc fn_animated_text">
-                  ABYSSUS are abyssal creatures that were summoned against their will.
-                  </p>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="item">
-                <div className="item_num">
-                  <span>06</span>
-                </div>
-                <div className="item_content">
-                  <h3 className="fn_title">Undefined</h3>
-                  <p className="fn_desc fn_animated_text">
-                  What do you hope for the future? a lot still has to happen.
-                  </p>
-                </div>
-              </div>
-            </li>
           </ul>
         </div>
         {/* !Services */}

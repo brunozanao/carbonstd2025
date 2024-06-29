@@ -51,7 +51,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  HUMANS are driven by curiosity and ambition, always seeking to acquire more knowledge.
+                  Are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -90,7 +90,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  ROBOTS are unpredictable in their self-awareness, striving to be recognized as intelligent life.
+                  Are unpredictable in their self-awareness, striving to be recognized as intelligent life.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -129,7 +129,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  ZENON are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
+                  Are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -168,7 +168,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  ECOANS are humans who have merged their spirits with ethereal forces, transforming into a new race.
+                  Are humans who have merged their spirits with ethereal forces, transforming into a new race.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -207,7 +207,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  ABYSSUS are abyssal creatures that were summoned against their will.
+                  Are abyssal creatures that were summoned against their will.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -340,7 +340,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">May 05, 2022</span>
+                    <span className="text">HUMANS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}
@@ -349,7 +349,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(2)}>
                   <a onClick={() => onClick(2)}>
-                    <span className="text">May 27, 2022</span>
+                    <span className="text">ROBOTS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(2)}%)` }}
@@ -358,7 +358,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(3)}>
                   <a onClick={() => onClick(3)}>
-                    <span className="text">June 01, 2022</span>
+                    <span className="text">ZENON</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(3)}%)` }}
@@ -367,7 +367,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(4)}>
                   <a onClick={() => onClick(4)}>
-                    <span className="text">June 07, 2022</span>
+                    <span className="text">ECOANS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(4)}%)` }}
@@ -376,7 +376,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(5)}>
                   <a onClick={() => onClick(5)}>
-                    <span className="text">June 15, 2022</span>
+                    <span className="text">ABYSSUS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(5)}%)` }}
@@ -385,7 +385,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(6)}>
                   <a onClick={() => onClick(6)}>
-                    <span className="text">June 23, 2022</span>
+                    <span className="text">UNDEFINED</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(6)}%)` }}
@@ -394,7 +394,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(7)}>
                   <a onClick={() => onClick(7)}>
-                    <span className="text">July 01, 2022</span>
+                    <span className="text">UNDEFINED</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(7)}%)` }}
