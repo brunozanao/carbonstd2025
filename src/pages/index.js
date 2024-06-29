@@ -54,7 +54,7 @@ const Index = () => {
       <WhyChooseUsComponent />
       {/* !Investor Section */}
       {/* Blog Section */}
-      <BlogComponent />
+      {/* <BlogComponent /> */}
     </Layout>
   );
 };
