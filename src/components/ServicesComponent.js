@@ -28,19 +28,6 @@ const ServicesComponent = () => {
             <li>
               <div className="item">
                 <div className="item_num">
-                  <span>01</span>
-                </div>
-                <div className="item_content">
-                  <h3 className="fn_title">Humans</h3>
-                  <p className="fn_desc fn_animated_text">
-                  HUMANS are driven by curiosity and ambition, always seeking to acquire more knowledge.
-                  </p>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="item">
-                <div className="item_num">
                   <span>02</span>
                 </div>
                 <div className="item_content">
@@ -52,6 +39,19 @@ const ServicesComponent = () => {
               </div>
             </li>
             <li>
+            <li>
+              <div className="item">
+                <div className="item_num">
+                  <span>01</span>
+                </div>
+                <div className="item_content">
+                  <h3 className="fn_title">Humans</h3>
+                  <p className="fn_desc fn_animated_text">
+                  HUMANS are driven by curiosity and ambition, always seeking to acquire more knowledge.
+                  </p>
+                </div>
+              </div>
+            </li>
               <div className="item">
                 <div className="item_num">
                   <span>03</span>
