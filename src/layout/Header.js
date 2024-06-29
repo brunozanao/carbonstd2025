@@ -27,7 +27,7 @@ const Header = () => {
             <ul>
               <li className="menu-item menu-item-has-children">
                 <a
-                  href="#"
+                  href="https://carbonstd.com/"
                   onClick={(e) => {
                     e.preventDefault();
                     setHomeToggle(!homeToggle);
@@ -35,45 +35,55 @@ const Header = () => {
                 >
                   Home
                 </a>
-                <ul
-                  className="sub-menu"
-                  style={{ display: homeToggle ? "block" : "none" }}
-                >
-                  <li>
-                    <Link legacyBehavior href="/">
-                      Home Static
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="/kenburns">
-                      Full Kenburns
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="/half-kenburns">
-                      Half Kenburns
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="/half-slider">
-                      Half Slider
-                    </Link>
-                  </li>
-                </ul>
               </li>
               <li className="menu-item">
                 <Link legacyBehavior href="/about">
-                  About
+                  Manifest
                 </Link>
               </li>
               <li className="menu-item">
                 <Link legacyBehavior href="/blog">
-                  Blog
+                  Our Team
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon-credit">
+                  Our Carbon
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/whitepaper/">
+                  Whitepaper
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/roadmap">
+                  Roadmap
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance">
+                  Governance
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://opensea.io/CarbonStd">
+                  Buy Now
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/treasury-vault">
+                  Treasury Vault
+                </Link>
+              </li>
+              <li className="menu-item">
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon.std-dao">
+                  DAO Plataform
                 </Link>
               </li>
               <li className="menu-item">
                 <Link legacyBehavior href="/contact">
-                  Contact
+                  Legal Documents
                 </Link>
               </li>
             </ul>
