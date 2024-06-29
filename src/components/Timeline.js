@@ -13,7 +13,7 @@ const Timeline = () => {
     <Fragment>
       {/* Main Title */}
       <div className="neoh_fn_title">
-        <h3 className="fn_title">Neoh’s Roadmap</h3>
+        <h3 className="fn_title">A Universe Composed of Various Rarities</h3>
         <div className="line">
           <span />
         </div>
@@ -43,18 +43,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>May 05, 2022</span>
+                    <span>HUMANS</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
-                      New Character Set #12 is Coming Up
+                    Humans
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                  HUMANS are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -85,18 +82,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>May 27, 2022</span>
+                    <span>ROBOTS</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
-                      Female Character Set #20 is Coming Up
+                      Robots
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                  ROBOTS are unpredictable in their self-awareness, striving to be recognized as intelligent life.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -127,18 +121,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>June 01, 2022</span>
+                    <span>ZENON</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
-                      Mini Game Lounch For Community
+                      Zenon
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                  ZENON are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -169,18 +160,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>June 07, 2022</span>
+                    <span>ECOANS</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
-                      New Character Set #15 is Coming Up
+                      Ecoans
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                  ECOANS are humans who have merged their spirits with ethereal forces, transforming into a new race.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -211,18 +199,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>June 15, 2022</span>
+                    <span>ABYSSUS</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
-                      New Spirit Set #01 is Coming Up
+                      Abyssus
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                  ABYSSUS are abyssal creatures that were summoned against their will.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
@@ -253,18 +238,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>June 23, 2022</span>
+                    <span>UNDEFINED</span>
                   </p>
                   <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
-                      New Haircut Collection #01 is Coming Up
+                      Undefined
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
+                  What do you hope for the future? a lot still has to happen.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="/roadmap-single">
