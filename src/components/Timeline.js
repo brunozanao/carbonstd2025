@@ -69,13 +69,13 @@ const Timeline = () => {
                   <div className="neoh_fn_gallery_1_2">
                     <div className="gallery_in">
                       <div className="item row2">
-                        <img src="img/timeline/2/1.jpge" alt="" />
+                        <img src="img/timeline/2/1.jpg" alt="" />
                       </div>
                       <div className="item">
-                        <img src="img/timeline/2/2.jpge" alt="" />
+                        <img src="img/timeline/2/2.jpg" alt="" />
                       </div>
                       <div className="item">
-                        <img src="img/timeline/2/3.jpge" alt="" />
+                        <img src="img/timeline/2/3.jpg" alt="" />
                       </div>
                     </div>
                   </div>
