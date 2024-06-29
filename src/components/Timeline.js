@@ -54,7 +54,7 @@ const Timeline = () => {
                   Are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
@@ -69,13 +69,13 @@ const Timeline = () => {
                   <div className="neoh_fn_gallery_1_2">
                     <div className="gallery_in">
                       <div className="item row2">
-                        <img src="img/timeline/2/1.jpg" alt="" />
+                        <img src="img/timeline/2/1.jpge" alt="" />
                       </div>
                       <div className="item">
-                        <img src="img/timeline/2/2.jpg" alt="" />
+                        <img src="img/timeline/2/2.jpge" alt="" />
                       </div>
                       <div className="item">
-                        <img src="img/timeline/2/3.jpg" alt="" />
+                        <img src="img/timeline/2/3.jpge" alt="" />
                       </div>
                     </div>
                   </div>
@@ -93,7 +93,7 @@ const Timeline = () => {
                   Are unpredictable in their self-awareness, striving to be recognized as intelligent life.
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
@@ -132,7 +132,7 @@ const Timeline = () => {
                   Are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
@@ -171,7 +171,7 @@ const Timeline = () => {
                   Are humans who have merged their spirits with ethereal forces, transforming into a new race.
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
@@ -210,7 +210,7 @@ const Timeline = () => {
                   Are abyssal creatures that were summoned against their will.
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
@@ -249,7 +249,7 @@ const Timeline = () => {
                   What do you hope for the future? a lot still has to happen.
                   </p>
                   <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
