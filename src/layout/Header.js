@@ -37,12 +37,12 @@ const Header = () => {
                 </a>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="/about">
+                <Link legacyBehavior href="#">
                   Manifest
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="/blog">
+                <Link legacyBehavior href="#">
                   Our Team
                 </Link>
               </li>
@@ -82,7 +82,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="/contact">
+                <Link legacyBehavior href="#">
                   Legal Documents
                 </Link>
               </li>
@@ -115,7 +115,7 @@ const Header = () => {
         <div className={`nav_footer ${toggle ? "ready" : ""}`}>
           <div className="nf_left">
             <p>
-              Copyright {new Date().getFullYear()}- Designed &amp; Developed by{" "}
+              Copyright {new Date().getFullYear()}- The Future Is Green
               <a
                 href="https://themeforest.net/user/codeefly/portfolio"
                 target="_blank"
@@ -128,30 +128,30 @@ const Header = () => {
             <div className="neoh_fn_social_list">
               <ul>
                 <li>
-                  <a href="#">
+                  <a href="https://x.com/carbonstd?s=21&t=nVja-RUzpdKwKqRLWJb-Jw">
                     <i className="fn-icon-twitter" />
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     <i className="fn-icon-facebook" />
                   </a>
-                </li>
+                </li> */}
                 <li>
-                  <a href="#">
+                  <a href="https://www.instagram.com/carbon.standard?igsh=ZWJqZnhpNXBhenly">
                     <i className="fn-icon-instagram" />
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     <i className="fn-icon-pinterest" />
                   </a>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a href="#">
                     <i className="fn-icon-behance" />
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
