@@ -12,11 +12,11 @@ const Footer = () => {
                   <img src="img/footer-logo.png" alt="" />
                 </div>
                 <h3 className="fn_title">Join Now For Early Access</h3>
-                <p className="fn_desc">
+                {/* <p className="fn_desc">
                   Morbi non dignissim erat, a blandit felis nec lorem vel orci
                   varius congue ut vitae est. Nam quis tempus nisl. Fusce
                   posuere nibh a mi molestie, sit amet ornare
-                </p>
+                </p> */}
               </div>
               <div className="subscribe_form">
                 <div className="subscribe_in">
@@ -38,30 +38,30 @@ const Footer = () => {
               <div className="neoh_fn_social_list">
                 <ul>
                   <li>
-                    <a href="#">
+                    <a href="https://x.com/carbonstd?s=21&t=nVja-RUzpdKwKqRLWJb-Jw">
                       <i className="fn-icon-twitter" />
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="fn-icon-facebook" />
                     </a>
-                  </li>
+                  </li> */}
                   <li>
-                    <a href="#">
+                    <a href="https://www.instagram.com/carbon.standard?igsh=ZWJqZnhpNXBhenly">
                       <i className="fn-icon-instagram" />
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="fn-icon-pinterest" />
                     </a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a href="#">
                       <i className="fn-icon-behance" />
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
