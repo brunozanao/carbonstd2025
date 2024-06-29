@@ -116,12 +116,6 @@ const Header = () => {
           <div className="nf_left">
             <p>
               Copyright {new Date().getFullYear()}- The Future Is Green
-              <a
-                href="https://themeforest.net/user/codeefly/portfolio"
-                target="_blank"
-              >
-                Codeefly
-              </a>
             </p>
           </div>
           <div className="nf_right">
