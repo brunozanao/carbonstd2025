@@ -16,7 +16,7 @@ const ServicesComponent = () => {
       <div className="container">
         {/* Main Title */}
         <div className="neoh_fn_title">
-          <h3 className="fn_title">A Universe of Various Rarities </h3>
+          <h3 className="fn_title">A Universe Composed of Various Rarities</h3>
           <div className="line">
             <span />
           </div>
@@ -28,7 +28,7 @@ const ServicesComponent = () => {
             <li>
               <div className="item">
                 <div className="item_num">
-                  <span>02</span>
+                  <span>01</span>
                 </div>
                 <div className="item_content">
                   <h3 className="fn_title">Zenon</h3>
@@ -39,10 +39,9 @@ const ServicesComponent = () => {
               </div>
             </li>
             <li>
-            <li>
               <div className="item">
                 <div className="item_num">
-                  <span>01</span>
+                  <span>02</span>
                 </div>
                 <div className="item_content">
                   <h3 className="fn_title">Humans</h3>
@@ -52,6 +51,7 @@ const ServicesComponent = () => {
                 </div>
               </div>
             </li>
+            <li>
               <div className="item">
                 <div className="item_num">
                   <span>03</span>
