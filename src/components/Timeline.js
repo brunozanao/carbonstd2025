@@ -45,11 +45,11 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>HUMANS</span>
                   </p>
-                  <h3 className="fn_title">
+                  {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                     Humans
                     </Link>
-                  </h3>
+                  </h3> */}
                   <p className="fn_desc">
                   Are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
@@ -84,11 +84,11 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ROBOTS</span>
                   </p>
-                  <h3 className="fn_title">
+                  {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                       Robots
                     </Link>
-                  </h3>
+                  </h3> */}
                   <p className="fn_desc">
                   Are unpredictable in their self-awareness, striving to be recognized as intelligent life.
                   </p>
@@ -123,11 +123,11 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ZENON</span>
                   </p>
-                  <h3 className="fn_title">
+                  {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                       Zenon
                     </Link>
-                  </h3>
+                  </h3> */}
                   <p className="fn_desc">
                   Are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
@@ -162,11 +162,11 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ECOANS</span>
                   </p>
-                  <h3 className="fn_title">
+                  {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                       Ecoans
                     </Link>
-                  </h3>
+                  </h3> */}
                   <p className="fn_desc">
                   Are humans who have merged their spirits with ethereal forces, transforming into a new race.
                   </p>
@@ -201,11 +201,11 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ABYSSUS</span>
                   </p>
-                  <h3 className="fn_title">
+                  {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                       Abyssus
                     </Link>
-                  </h3>
+                  </h3> */}
                   <p className="fn_desc">
                   Are abyssal creatures that were summoned against their will.
                   </p>
@@ -240,11 +240,11 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>UNDEFINED</span>
                   </p>
-                  <h3 className="fn_title">
+                  {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                       Undefined
                     </Link>
-                  </h3>
+                  </h3> */}
                   <p className="fn_desc">
                   What do you hope for the future? a lot still has to happen.
                   </p>
