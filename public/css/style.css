@@ -564,7 +564,7 @@ a.full_link{
 	box-shadow: 0px 0px 50px rgba(0,0,0,0.6);
 }
 .neoh_fn_about_item .content_item{
-	width: 50%;
+	width: 100%;
 	padding: 40px 40px 40px 100px;
 }
 .neoh_fn_about_item .neoh_fn_title{
