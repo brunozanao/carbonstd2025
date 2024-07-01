@@ -525,7 +525,7 @@ a.full_link{
 	display: flex;
 	-ms-align-items: center;
 	align-items: center;
-	margin-bottom: 150px;
+	margin-bottom: 0px;
 }
 .neoh_fn_about_item:last-child{
 	margin-bottom: 0;
@@ -4481,7 +4481,7 @@ a.full_link{
 		padding: 100px 0;
 	}
 	.neoh_fn_about_item{
-		margin-bottom: 0px;
+		margin-bottom: 100px;
 	}
 	.neoh_fn_services li{
 		width: 50%;
