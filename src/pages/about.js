@@ -43,6 +43,230 @@ const About = () => {
                 </div>
               </div>
             </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Your Obligations</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  You are solely responsible for your own conduct in accessing or using the Site and for any consequences thereof. You agree to use the Site only for purposes that are lawful, proper and in accordance with these Terms and any applicable laws or regulations. By way of example, and not by way of limitation, you may not, and may not allow any third party to: (i) upload, upload, distribute or disseminate any unlawful, defamatory, harassing, abusive, fraudulent, hateful, violent, obscene, or otherwise objectionable content; (ii) distribute viruses, worms, bugs, Trojan horses, corrupted files, hoaxes or any other items of a destructive or deceptive nature; (iii) impersonate another person; (iv) upload, post, transmit or otherwise make available through the Site any content that infringes the intellectual property or proprietary rights of any party or otherwise violates the legal rights of any third party; (v) engage in, promote or encourage illegal activities (including, without limitation, money laundering); (vi) interfere with the use of the Site by other users; (vii) use the Site for any unauthorized commercial purpose; (viii) modify, adapt, translate or reverse engineer any part of the Site; (ix) remove any copyright, trademark or other proprietary rights notices contained on the Site or any part thereof; (x) use any technology to collect information about the Site for any unauthorized purpose; (xi) access or use the Site for the purpose of creating a product or service that is competitive with any of our products or services.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Fees and Payment</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  A. If you choose to purchase a Carbon.Std through the Site, any financial transactions you undertake will be conducted exclusively over the Ethereum network. We will have no information or control about these payments or transactions, nor do we have the ability to reverse any transactions. We will have no liability to you or any third party for any claims or damages that may arise as a result of any transactions you enter into or any other transactions you conduct over the Ethereum network.
+                  </p>
+                  <p>
+                  B. Ethereum requires payment of a transaction fee (a “gas fee”) for every transaction that takes place on the Ethereum network. AGas Fee funds the network of computers running the Ethereum decentralized network. This means that you will need to pay a gas fee for each transaction.</p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Disclaimers</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR ACCESS TO AND USE OF THE SITE IS AT YOUR SOLE RISK, AND THAT THE SITE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE MAKE NO EXPRESS WARRANTIES AND HEREBY DISCLAIM ALL IMPLIED WARRANTIES REGARDING THE SITE AND ANY PART OF IT (INCLUDING, WITHOUT LIMITATION, THE SITE, ANY SMART CONTRACT, OR ANY EXTERNAL WEBSITES), INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, CORRECTNESS, ACCURACY, OR RELIABILITY. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (I) YOUR ACCESS TO OR USE OF THE SITE WILL MEET YOUR REQUIREMENTS, (II) YOUR ACCESS TO OR USE OF THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, (III) USAGE DATA PROVIDED THROUGH THE SITE WILL BE ACCURATE, (III) THE SITE OR ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE ON OR THROUGH THE SITE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR (IV) THAT ANY DATA THAT YOU DISCLOSE WHEN YOU USE THE SITE WILL BE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+                  </p>
+                  <p>
+                  B. YOU ACCEPT THE SECURITY RISKS INHERENT IN PROVIDING INFORMATION AND TRADING ONLINE VIA THE INTERNET, AND YOU AGREE THAT WE HAVE NO LIABILITY FOR ANY BREACH OF SECURITY UNLESS DUE TO OUR MISCONDUCT.</p>
+                  <p>
+                  C. WE WILL NOT BE RESPONSIBLE FOR ANY LOSSES YOU INCUR AS A RESULT OF ITS USE FROM THE ETHEREUM NETWORK, WE NEITHER HAVE CONTROL AND NOT WE GIVE WARRANTIES IN RELATION TO ANY SMART CONTRACT.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Limitation of Liability</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  A. YOU UNDERSTAND AND AGREE THAT WE WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES WHICH YOU MAY INCUR, HOWSOEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, ANY LOSS OF PROFITS (WHETHER INCURRED DIRECTLY OR INDIRECTLY), LOSS OF GOODWILL OR BUSINESS REPUTATION, LOSS OF DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR ANY OTHER INTANGIBLE LOSS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+                  </p>
+                  <p>
+                  B. YOU AGREE THAT OUR FULL AND AGGREGATE LIABILITY TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THESE TERMS OR YOUR ACCESS OR USE (OR YOUR INABILITY TO ACCESSOR USE) ANY PART OF THE SITE, WHETHER CONTRACT, STRICT LIABILITY OR ANY OTHER LEGAL THEORY IS LIMITED TO THE GREATEST OF (A) THE AMOUNT YOU ACTUALLY PAID US UNDER THESE TERMS IN THE 12-MONTH PERIOD PRIOR TO THE DATE THE CLAIM ARISES, OR (B) US$500.</p>
+                  <p>
+                  C. YOU ACKNOWLEDGES AND AGREES THAT WE MAKE THE SITE AVAILABLE TO YOU AND ACCEPT THESE TERMS IN RELIANCE ON THE WARRANTY DISCLAIMERS AND LIMITATIONS OFRESPONSIBILITIES ESTABLISHED IN THIS DOCUMENT. WE MAY NOT PROVIDE THE SITE TO YOU WITHOUT THESE LIMITATIONS.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Risk Taking</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  You accept and acknowledge each of the following:
+                  </p>
+                  <p>
+                  A. As you sell your NFT Carbon.Std, please be aware that prices forNTFs are extremely volatile and fluctuations in the prices of others NFTs affect the price of your Carbon.Std both positively and negatively. Given the volatility, NFTs like Carbon.Std should not be considered an investment. You assume all risk in this connection.</p>
+                  <p>
+                  B. Ownership of a Carbon.Std confers ownership of the digital artwork only. Consequently, no information on this Site (or any other documents referenced therein) is or can be considered advice or an invitation to enter into a contract for any investment purpose. In addition, nothing on this Site qualifies or is intended to be an offer of securities in any jurisdiction, nor does it constitute an offer or an invitation to buy stocks, securities or other financial products. Because Artistic nature of the project, Carbon.Std was not registered or approved by any regulator in any jurisdiction. It is your sole responsibility to ensure that your purchase of Carbon.Std and associated artwork complies with the laws and regulations of your jurisdiction.
+                  </p>
+                  <p>
+                  C. You assume all risks associated with using an Internet-based currency, including but not limited to hardware risk,software and connections with the Internet, the risk of introducing malicious software and the risk of third parties gaining unauthorized access to information stored in your wallet
+                  </p>
+                  <p>
+                  D. NFTs, cryptocurrencies and blockchain technology are relatively new and the regulatory landscape is unstable. New regulations may negatively affect these technologies,affecting the value of your Carbon.Std. Youunderstands and accepts all risks in that regard.
+                  </p>
+                <p>
+                E. You assume all responsibility for any adverse effects of outages or other issues affecting Ethereum or the Ethereum platform.
+                </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Indemnity</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  You agree to hold harmless and indemnify Carbon.Std and its subsidiaries, affiliates, officers, agents, employees, advertisers, licensors, suppliers or partners for and against any claim, liability, loss, damage (actual and consequential) of any kind or nature, proceeding, judgment, cost of litigation and reasonable attorneys' fees arising out of or in any way relating to (i) your breach of these Terms, (ii)its use use of the Site or (iii) your violation of laws, rules or regulations relating to your access or use do Site.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Changes to the Terms and Conditions</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  We may make changes to the Terms at our discretion. Please,check you are terms periodically for changes. Any changes to the Terms will apply on the date they are made, and your access continuous or use after the update of the Terms will constitute your acceptance binding of updates. If you do not agree to any revised Terms, you will not be able to accessor use o Site.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Children</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  Our Site is not intended for children. You must be at least 18 years old to access this Site or purchase a Carbon.Std. If you are under the age of 18, you are not permitted to use this Site for any reason. By accessing the Site, you represent and warrant that you are at least 18 years of age.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Dispute Resolution: Arbitration</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  All disputes arising out of or relating to these Terms, including, without limitation, your access to or use of the Site, or any products sold or distributed through the Site, will be referred to and ultimately resolved by arbitration in accordance with the rules of Arbitration.american association. The case will be adjudicated by a single arbitrator and will be administered by the American Arbitration Association in accordance with its applicable rules. Each party will cover its own fees and costs associated with the arbitration process. The place of arbitration will be New York, New York. The arbitrator's award will be final and binding, and any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Notwithstanding the foregoing, WITH RESPECT TO ANY DISPUTE ARISING OUT OF OR IN CONNECTION WITH THESE TERMS, INCLUDING, WITHOUT LIMITATION, DISPUTES RELATING TO THE SITE OR ANY PRODUCTS SOLD OR DISTRIBUTED THROUGH THE SITE, OR THE SMART CONTRACTS: (I) YOU EXPRESSLY WAIVE YOUR RIGHT TO HAVE A TRIAL BY JURY; AND (II) YOU EXPRESSLY WAIVE YOUR RIGHT TO PARTICIPATE AS A MEMBER OF A PLAINTIFFANT CLASS IN ANY LEGAL ACTION, INCLUDING BUT NOT LIMITED TO CLASS ACTIONS INVOLVING ANY DISPUTE.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Governing Law and Dispute Resolution</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  These Terms will be governed by Delaware law, regardless of its conflict of law provisions and regardless of where you live or where you accessor use the website or request products from it.
+                  </p>
+                  <p>
+                    As a condition of your use of the website, you and we agree that any and all disputes, claims and causes of action (collectively, "Claims'') arising out of or relating to the website (except for Small Claims Court Claims, if applicable) will be resolved exclusively by binding arbitration in accordance with the rules of the Association of American Arbitration ("AAA"),including the Procedures Supplements for Consumer Related Disputes, for full and final resolution of such Claim applying the Federal Arbitration Act and other federal arbitration laws. YOUUNDERSTAND AND AGREE THAT IS WAIVING YOUR RIGHT TO SUE OR GO TO COURT TO AFFIRM OR DEFEND YOUR RIGHTS UNDER THESE TERMS. YOU AND WE FURTHER AGREE THAT (A) ANY CLAIMS WILL BE RESOLVED INDIVIDUALLY, NOT AS A CLASS AUTHOR OR REPRESENTATIVE, OTHERWISE MEMBER ON BEHALF OF OTHERS FOR ANY CLASS PURPOSE,COLLECTIVE OR REPRESENTATIVE AND NOT BY ANY CLASS ACTION, (B) IF A CLAIM PROCEEDS IN COURT IN ANY WAY, WE WAIVE ANY RIGHT TO A TRIAL BY JURY; AND (C) YOU OR WE MAY SEARCHAN ACTION JUDICIAL REGARDS TO INFRINGEMENT OF INTELLECTUAL PROPERTY.THE ARBITRATION IT DOES NOT INVOLVE A JUDGE OR JURY.although the review judicial or arbitral award may be limited, an arbitrator is empowered to award the same damages and remedies as a court of law, including injunctive relief or statutory damages.However the foregoing, either party may seek temporary or emergency equitable relief to enforce its rights in any court of competent jurisdiction. WE WAIVE ANY RIGHT TO A TRIAL BY JURY; AND (C) YOU OR WE MAY SEARCHAN ACTION JUDICIAL REGARDS TO INFRINGEMENT OF INTELLECTUAL PROPERTY.THE ARBITRATION IT DOES NOT INVOLVE A JUDGE OR JURY.although the review judicial or arbitral award may be limited, an arbitrator is empowered to award the same damages and remedies as a court of law, including injunctive relief or statutory damages.However the foregoing, either party may seek temporary or emergency equitable relief to enforce its rights in any court of competent jurisdiction. WE WAIVE ANY RIGHT TO A TRIAL BY JURY; AND (C) YOU OR WE MAY SEARCHAN ACTION JUDICIAL REGARDS TO INFRINGEMENT OF INTELLECTUAL PROPERTY.THE ARBITRATION IT DOES NOT INVOLVE A JUDGE OR JURY.although the review judicial of a arbitral award may be limited, an arbitrator is empowered to award the same damages and remedies as a court of law, including injunctive relief or statutory damages.However the foregoing, either party may seek temporary or emergency equitable relief to enforce its rights in any court of competent jurisdiction, including injunctive relief or statutory damages.However the foregoing, either party may seek temporary or emergency equitable relief to enforce its rights in any court of competent jurisdiction, including injunctive relief or statutory damages.However the foregoing, either party may seek temporary or emergency equitable relief to enforce its rights in any court of competent jurisdiction.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Digital Assets</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  Digital Assets purchased on our site may be bought, sold and/or traded on third-party marketplaces or exchange sites (such transactions, “Side Transactions”). Secondary Transactions will be subject to the terms and conditions of such sites. We are not party to any Secondary Transaction. We do not guarantee the availability or functionality of such sites and use of such sites is at your own risk. We have no liability to you or any third party for any claims or damages that may arise as a result of your Secondary Transactions or your use of such external websites.
+                  </p>
+                  <p>
+                  Unless otherwise stated by us, you will be solely responsible for paying any and all income, capital gains, sales, use, value-added and other taxes, fees and assessments now or hereafter claimed or imposed by any governmental authority (collectively, “Taxes”) associated with Assets Digital acquired or received by you (including, without limitation, any taxes that may be owed as a result of your ownership, transfer, purchase,receipt or sale of a Company NFT).
+                  </p>
+                  <p>
+                  With respect to Digital Assets released by us prior to September 15, 2022, you understand and acknowledge that we will only recognize such Digital Assets on the Proof of Stake Ethereum chain (withchainID of 1) as subject to applicable license on our website and eligible to participate in Company activities related to ownership of our Digital Assets. In the event of further changes to the operational rules of the underlying software protocol of a relevant blockchain network that result in two different branches of the relevant blockchain network, the parties acknowledge and agree that the Company may, in its sole discretion, decide whether or not to support (or cease to support) the Company's NFTs on any branch of the forked software protocol entirely. You acknowledge and agree that we assume no liability.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="neoh_fn_about_item">
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Several</h3>
+                  <div className="line">
+                    <span />
+                  </div>
+                </div>
+                <div className="desc">
+                  <p>
+                  These Terms (along with other policies found on the Company's website) contain the whole deal between the parties and supersede all oral agreements and written previous. No verbal modifications, expressed or implied, may alter the terms of this agreement. The parties have not relied on any representations or promises relating to the object of this agreement, except those contained in the four corners of this agreement.
+                  </p>
+                  <p>
+                  These Terms and other agreements relating to the Site do not constitute a joint venture, partnership, agency,employment or relationship trust between the parties, except as expressly stated. Neither party nor its agents have any authority to bind the other party, and the relationship of the parties is that of buyer and seller, or independent contractors in certain circumstances.
+                  </p>
+                  <p>
+                  These Terms benefit and bind the successors, assignees, heirs, executors and administrators of the parties. However, you may not assign or delegate any right or duty here without the written consent of the Company. Any attempt to do so is null and void.
+                  </p>
+                  <p>
+                  If any provision of these Terms is held to be invalid or unenforceable, the remainder of the Terms will remain in full force and effect and effect. If any provision is held to be invalid or unenforceable in relation to specific circumstances, it will remain in full force and effect and effect under all other circumstances.
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
       </div>
