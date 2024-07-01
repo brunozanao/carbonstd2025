@@ -37,7 +37,7 @@ const Header = () => {
                 </a>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="#">
+                <Link legacyBehavior href="#about">
                   Manifest
                 </Link>
               </li>
