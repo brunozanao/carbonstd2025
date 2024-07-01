@@ -54,7 +54,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a href="mailto:contato@carbonstd.com">
-                      <i className="fa fa-envelope-square" />
+                    <i class="fa-solid fa-envelope"></i>
                     </a>
                   </li>
                   {/* <li>
