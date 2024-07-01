@@ -52,6 +52,11 @@ const Footer = () => {
                       <i className="fn-icon-instagram" />
                     </a>
                   </li>
+                  <li>
+                    <a href="mailto:contato@carbonstd.com">
+                      <i className="fn-icon-envelope" />
+                    </a>
+                  </li>
                   {/* <li>
                     <a href="#">
                       <i className="fn-icon-pinterest" />
