@@ -105,6 +105,11 @@ const Index = () => {
                     </div>
                     <div className="person_social">
                       <ul>
+                      <li>
+                          <a href="https://x.com/axelbarrionuevo">
+                            <i className="fn-icon-twitter" />
+                          </a>
+                        </li>
                         <li>
                           <a href="https://www.linkedin.com/in/axel-barrionuevo-3654b855/">
                             <i className="fn-icon-linkedin" />
