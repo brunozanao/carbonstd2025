@@ -8,7 +8,7 @@ const Drops = () => {
   const dropData = [
     {
       img: "img/drops/1.jpeg",
-      title: "CarbonStd #22",
+      title: "CarbonStd #418",
     },
     {
       img: "img/drops/2.jpeg",
@@ -16,7 +16,7 @@ const Drops = () => {
     },
     {
       img: "img/drops/3.jpeg",
-      title: "Neoh #4586",
+      title: "CarbonStd #506",
     },
     {
       img: "img/drops/4.jpeg",
@@ -105,7 +105,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/3.jpeg"
-                  data-modal-title="Neoh #4586"
+                  data-modal-title="CarbonStd #506"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -116,7 +116,7 @@ const Drops = () => {
                   </div>
                   <div className="title_holder">
                     <h3 className="fn_title">
-                      <a onClick={() => onClick(3)}>Neoh #4586</a>
+                      <a onClick={() => onClick(3)}>CarbonStd #506</a>
                     </h3>
                   </div>
                 </div>
