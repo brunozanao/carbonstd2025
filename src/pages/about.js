@@ -4,7 +4,7 @@ import PageBanner from "@/layout/PageBanner";
 const About = () => {
   return (
     <Layout pageName={"About"}>
-      <PageBanner pageName={"About"} />
+      <PageBanner pageName={"Legal Documents"} />
       <div className="neoh_fn_aboutpage">
         {/* Information Section */}
         <section id="information">
