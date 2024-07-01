@@ -79,12 +79,12 @@ const Index = () => {
                     <div className="person_social">
                       <ul>
                         <li>
-                          <a href="#">
+                          <a href="https://x.com/CARBONSATS">
                             <i className="fn-icon-twitter" />
                           </a>
                         </li>
                         <li>
-                          <a href="#">
+                          <a href="https://www.linkedin.com/in/augustolubian/">
                             <i className="fn-icon-linkedin" />
                           </a>
                         </li>
@@ -106,12 +106,7 @@ const Index = () => {
                     <div className="person_social">
                       <ul>
                         <li>
-                          <a href="#">
-                            <i className="fn-icon-twitter" />
-                          </a>
-                        </li>
-                        <li>
-                          <a href="#">
+                          <a href="https://www.linkedin.com/in/axel-barrionuevo-3654b855/">
                             <i className="fn-icon-linkedin" />
                           </a>
                         </li>
@@ -132,11 +127,6 @@ const Index = () => {
                     </div>
                     <div className="person_social">
                       <ul>
-                        <li>
-                          <a href="#">
-                            <i className="fn-icon-twitter" />
-                          </a>
-                        </li>
                         <li>
                           <a href="https://www.linkedin.com/in/jonatas-marques-abb813248/">
                             <i className="fn-icon-linkedin" />
@@ -160,12 +150,12 @@ const Index = () => {
                     <div className="person_social">
                       <ul>
                         <li>
-                          <a href="#">
+                          <a href="https://x.com/brunozanaoStd">
                             <i className="fn-icon-twitter" />
                           </a>
                         </li>
                         <li>
-                          <a href="#">
+                          <a href="https://www.linkedin.com/in/brunozanao/">
                             <i className="fn-icon-linkedin" />
                           </a>
                         </li>
