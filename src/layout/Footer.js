@@ -54,7 +54,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a href="mailto:contato@carbonstd.com">
-                      <i className="fn-icon-envelope" />
+                      <i className="fn-icon-mail" />
                     </a>
                   </li>
                   {/* <li>
