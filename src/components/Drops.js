@@ -66,8 +66,8 @@ const Drops = () => {
                   className="item"
                   data-modal-image="img/drops/1.jpeg"
                   data-modal-title="CarbonStd #418"
-                  data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
-                  data-modal-opensea-url="#"
+                  // data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
+                  data-modal-opensea-url="https://opensea.io/CarbonStd"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
@@ -86,9 +86,9 @@ const Drops = () => {
                   className="item"
                   data-modal-image="img/drops/2.jpeg"
                   data-modal-title="CarbonStd #204"
-                  data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
-                  data-modal-opensea-url=""
-                  data-modal-discord-url="#"
+                  // data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
+                  data-modal-opensea-url="https://opensea.io/CarbonStd"
+                  data-modal-discord-url=""
                 >
                   <div className="img_holder">
                     <img src="img/drops/2.jpeg" alt="" />
@@ -106,8 +106,8 @@ const Drops = () => {
                   className="item"
                   data-modal-image="img/drops/3.jpeg"
                   data-modal-title="CarbonStd #506"
-                  data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
-                  data-modal-opensea-url="#"
+                  // data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
+                  data-modal-opensea-url="https://opensea.io/CarbonStd"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
@@ -126,8 +126,8 @@ const Drops = () => {
                   className="item"
                   data-modal-image="img/drops/4.jpeg"
                   data-modal-title="Neoh #4585"
-                  data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
-                  data-modal-opensea-url="#"
+                  // data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
+                  data-modal-opensea-url="https://opensea.io/CarbonStd"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
@@ -146,8 +146,8 @@ const Drops = () => {
                   className="item"
                   data-modal-image="img/drops/5.jpeg"
                   data-modal-title="Neoh #4584"
-                  data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
-                  data-modal-opensea-url="#"
+                  // data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
+                  data-modal-opensea-url="https://opensea.io/CarbonStd"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
@@ -166,8 +166,8 @@ const Drops = () => {
                   className="item"
                   data-modal-image="img/drops/6.jpeg"
                   data-modal-title="Neoh #4583"
-                  data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
-                  data-modal-opensea-url="#"
+                  // data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
+                  data-modal-opensea-url="https://opensea.io/CarbonStd"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
