@@ -23,17 +23,17 @@ const ProductPopup = ({ open, close, img, title, dec }) => {
                   </div>
                 </div>
                 <div className="desc">
-                  <p>
+                  {/* <p>
                     {dec
                       ? dec
                       : `Suspendisse eu velit est. Cras nec vestibulum quam. Donec
                     tincidunt purus nec enim tincidunt, sit amet facilisis massa
                     laoreet. Integer mollis nec sapien eu lacinia.`}
-                  </p>
+                  </p> */}
                 </div>
                 <div className="buttons">
                   <a
-                    href="https://opensea.io/"
+                    href="Suspendisse eu velit est."
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button opensea"

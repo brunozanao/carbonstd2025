@@ -150,12 +150,12 @@ const Index = () => {
                     <div className="person_social">
                       <ul>
                         <li>
-                          <a href="https://x.com/brunozanaoStd">
+                          <a href="https://x.com/WR4b317">
                             <i className="fn-icon-twitter" />
                           </a>
                         </li>
                         <li>
-                          <a href="https://www.linkedin.com/in/brunozanao/">
+                          <a href="https://www.linkedin.com/in/mrdiegobandeira/">
                             <i className="fn-icon-linkedin" />
                           </a>
                         </li>
