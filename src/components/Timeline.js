@@ -236,16 +236,16 @@ const Timeline = () => {
                     </div>
                   </div>
                 </div>
-                <div className="t_item_info">
+                {/* <div className="t_item_info">
                   <p className="fn_date">
                     <span>UNDEFINED</span>
-                  </p>
+                  </p> */}
                   {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
                       Undefined
                     </Link>
                   </h3> */}
-                  <p className="fn_desc">
+                  {/* <p className="fn_desc">
                   What do you hope for the future? a lot still has to happen.
                   </p>
                   <p className="fn_read">
@@ -255,7 +255,7 @@ const Timeline = () => {
                       </a>
                     </Link>
                   </p>
-                </div>
+                </div> */}
               </div>
             </li>
             <li className={`timeline_item ${activeClass(7)}`} data-index={7}>
@@ -383,7 +383,7 @@ const Timeline = () => {
                     />
                   </a>
                 </li>
-                <li className={activeClass(6)}>
+                {/* <li className={activeClass(6)}>
                   <a onClick={() => onClick(6)}>
                     <span className="text">UNDEFINED</span>
                     <span
@@ -391,7 +391,7 @@ const Timeline = () => {
                       style={{ filter: `brightness(${filter(6)}%)` }}
                     />
                   </a>
-                </li>
+                </li> */}
                 {/* <li className={activeClass(7)}>
                   <a onClick={() => onClick(7)}>
                     <span className="text">UNDEFINED</span>
