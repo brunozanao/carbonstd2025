@@ -3,7 +3,7 @@ import PageBanner from "@/layout/PageBanner";
 
 const About = () => {
   return (
-    <Layout pageName={"About"}>
+    <Layout pageName={"Legal Documents"}>
       <PageBanner pageName={"Legal Documents"} />
       <div className="neoh_fn_aboutpage">
         <section id="information">
