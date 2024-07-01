@@ -52,7 +52,7 @@ const Drops = () => {
         <div className="container">
           {/* Main Title */}
           <div className="neoh_fn_title">
-            <h3 className="fn_title">Our Latest Drops</h3>
+            <h3 className="fn_title">Our Collection</h3>
             <div className="line">
               <span />
             </div>
