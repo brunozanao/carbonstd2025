@@ -100,7 +100,7 @@ const Header = () => {
               <span className="text">OpenSea</span>
             </a>
             <a
-              href="https://discord.gg/tZmRfhbrap"
+              href="https://discord.com/"
               className="neoh_fn_button"
               target="_blank"
             >
