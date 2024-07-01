@@ -33,7 +33,7 @@ const ProductPopup = ({ open, close, img, title, dec }) => {
                 </div>
                 <div className="buttons">
                   <a
-                    href="Suspendisse eu velit est."
+                    href="https://opensea.io/CarbonStd"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button opensea"
