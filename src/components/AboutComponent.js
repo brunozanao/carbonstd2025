@@ -45,7 +45,7 @@ const AboutComponent = () => {
                 <span className="text">OpenSea</span>
               </a>
               <a
-                href="https://discord.com/invite/sDMzchFsmp"
+                href="https://discord.gg/tZmRfhbrap"
                 target="_blank"
                 rel="noreferrer"
                 className="neoh_fn_button"
