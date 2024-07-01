@@ -69,7 +69,7 @@ const Index = () => {
                   <div className="t_item">
                     <div className="person_info">
                       <div className="img_holder">
-                        <img src="img/author/1.jpg" alt="" />
+                        <img src="img/author/1.jpeg" alt="" />
                       </div>
                       <div className="title_holder">
                         <h3 className="fn_title">Augusto Lubian </h3>
@@ -96,7 +96,7 @@ const Index = () => {
                   <div className="t_item">
                     <div className="person_info">
                       <div className="img_holder">
-                        <img src="img/author/2.jpg" alt="" />
+                        <img src="img/author/2.jpeg" alt="" />
                       </div>
                       <div className="title_holder">
                         <h3 className="fn_title">Axel Barrionuevo</h3>
@@ -118,7 +118,7 @@ const Index = () => {
                   <div className="t_item">
                     <div className="person_info">
                       <div className="img_holder">
-                        <img src="img/author/3.jpg" alt="" />
+                        <img src="img/author/3.jpeg" alt="" />
                       </div>
                       <div className="title_holder">
                         <h3 className="fn_title">Jonatas Marques </h3>
@@ -140,7 +140,7 @@ const Index = () => {
                   <div className="t_item">
                     <div className="person_info">
                       <div className="img_holder">
-                        <img src="img/author/4.jpg" alt="" />
+                        <img src="img/author/4.jpeg" alt="" />
                       </div>
                       <div className="title_holder">
                         <h3 className="fn_title">Bruno Zanão</h3>
