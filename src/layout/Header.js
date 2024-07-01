@@ -42,7 +42,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="#">
+                <Link legacyBehavior href="#team">
                   Our Team
                 </Link>
               </li>
