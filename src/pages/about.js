@@ -53,6 +53,22 @@ const About = () => {
                   </a>
                 </div> */}
               </div>
+              <div className="content_item">
+                <div className="neoh_fn_title" data-align="left">
+                  <h3 className="fn_title">Property</h3>
+                </div>
+                <div className="desc">
+                  <p>
+                  A. You Own the NFT. Each Carbon.Std is an NFT on the Ethereum blockchain. When you buy an NFT, you own the underlying Carbon.Std, the Art, completely. Ownership of the NFT is mediated entirely by the Smart Contract and the Ethereum Network: at no time can we seize, freeze or modify ownership of any Carbon.Std.
+                  </p>
+                  <p>
+                  B. Personal use. Subject to your continued compliance with these Terms, Stock Capital grants you a worldwide royalty-free license to use, copy and display the purchased Artwork, along with any extensions you choose to create or use, exclusively for the following purposes: (i) toits use personal and non-commercial; (ii) as part of a marketplace that allows the buying and selling of your Carbon.Std/NFT, provided the marketplace cryptographically verifies the rights of each Carbon.Std owner to display the Artwork from your Carbon.Std to ensure only the actual owner can display the Artwork; or (iii) as part of a third party website or application that allow inclusion, involvement or participation of its Carbon.Std.</p>
+                  <p>
+                  C. Commercial Use. Subject to your continued compliance with these Terms, Stock Capital grants you an unlimited worldwide license to use, copy and display Artwork purchased for the purpose of creating derivative works based on the Artwork (“Commercial Use”). Examples of such Commercial Use would be, for example, using the Artwork to produce and sell merchandise (t-shirts, etc.) displaying copies of the Artwork. For the sake of clarity, nothing in this Section shall be deemed to preclude (i) owning or operating a marketplace that permits the use and sale of Carbon.Std generally, provided the marketplace cryptographically verifies the rights of each Carbon.Std owner to display the Artwork to your Carbon.Std to ensure only the actual owner can display the Artwork; (ii) own or operate a third party website or application that allow inclusion, involvement or participation of Carbon.Std generally, provided that the third party website or application cryptographically verifies the rights of each owner of Carbon.Std To display Artwork from your Carbon.Std to ensure only the actual owner can display the art and since that Art is no longer visiblewhen the owner from the Purchased Carbon.Std leave the website/application; or (iii) obtain revenue from any of the foregoing items. as long as the third-party website or application cryptographically verifies the rights of each Carbon.Std owner to display Artwork for your Carbon.Std to ensure only the actual owner can display the art and since that the Artwork is no longer visible once the owner of the Purchased Carbon.Std leaves the website/application; or (iii) obtain revenue from any of the foregoing items. as long as the third-party website or application cryptographically verifies the rights of each Carbon.Std owner to display Artwork for your Carbon.Std to ensure only the actual owner can display the art and since that the Artwork is no longer visible once the owner of the Purchased Carbon.Std leaves the website/application; or (iii) obtain revenue from any of the foregoing items.</p>
+                  <p>D. Carbon.Std/IP. Other than rights in the Artwork, nothing herein gives you any rights in any other trademarks or other intellectual property rights belonging to Stock Capital, including, without limitation, Carbon.Std, and the associated logos. All such rights are expressly reserved on behalf of Stock Capital.</p>
+                  <p>E. Comments. You may choose to submit comments, bug reports, ideas or other feedback about the Site, including, without limitation, how to improve the Site (collectively, “Feedback”). By submitting any Feedback, you agree that we are free to use such Feedback in any manner that we choose without further compensation to you and you grant us a perpetual, irrevocable, non-exclusive, worldwide license to incorporate and use the Feedback for any purpose.</p>
+                </div>
+              </div>
             </div>
             {/* !About Item #1 */}
             {/* Guarantee List */}
