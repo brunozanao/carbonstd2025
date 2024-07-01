@@ -140,6 +140,33 @@ const Index = () => {
                   <div className="t_item">
                     <div className="person_info">
                       <div className="img_holder">
+                        <img src="img/author/5.jpeg" alt="" />
+                      </div>
+                      <div className="title_holder">
+                        <h3 className="fn_title">Diego Bandeira</h3>
+                        <p className="fn_desc">Country Manager</p>
+                      </div>
+                    </div>
+                    <div className="person_social">
+                      <ul>
+                        <li>
+                          <a href="https://x.com/brunozanaoStd">
+                            <i className="fn-icon-twitter" />
+                          </a>
+                        </li>
+                        <li>
+                          <a href="https://www.linkedin.com/in/brunozanao/">
+                            <i className="fn-icon-linkedin" />
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li className="team_item">
+                  <div className="t_item">
+                    <div className="person_info">
+                      <div className="img_holder">
                         <img src="img/author/4.jpeg" alt="" />
                       </div>
                       <div className="title_holder">

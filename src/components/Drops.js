@@ -64,19 +64,19 @@ const Drops = () => {
               <li>
                 <div
                   className="item"
-                  data-modal-image="img/drops/1.jpg"
-                  data-modal-title="Neoh #4588"
+                  data-modal-image="img/drops/1.jpeg"
+                  data-modal-title="CarbonStd #418"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
-                    <img src="img/drops/1.jpg" alt="" />
+                    <img src="img/drops/1.jpeg" alt="" />
                     <a className="full_link" onClick={() => onClick(1)} />
                   </div>
                   <div className="title_holder">
                     <h3 className="fn_title">
-                      <a onClick={() => onClick(1)}>Neoh #4588</a>
+                      <a onClick={() => onClick(1)}>CarbonStd #418</a>
                     </h3>
                   </div>
                 </div>
@@ -84,19 +84,19 @@ const Drops = () => {
               <li>
                 <div
                   className="item"
-                  data-modal-image="img/drops/2.jpg"
-                  data-modal-title="Neoh #4587"
+                  data-modal-image="img/drops/2.jpeg"
+                  data-modal-title="CarbonStd #204"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url=""
                   data-modal-discord-url="#"
                 >
                   <div className="img_holder">
-                    <img src="img/drops/2.jpg" alt="" />
+                    <img src="img/drops/2.jpeg" alt="" />
                     <a onClick={() => onClick(2)} className="full_link" />
                   </div>
                   <div className="title_holder">
                     <h3 className="fn_title">
-                      <a onClick={() => onClick(2)}>Neoh #4587</a>
+                      <a onClick={() => onClick(2)}>CarbonStd #204</a>
                     </h3>
                   </div>
                 </div>
@@ -104,14 +104,14 @@ const Drops = () => {
               <li>
                 <div
                   className="item"
-                  data-modal-image="img/drops/3.jpg"
+                  data-modal-image="img/drops/3.jpeg"
                   data-modal-title="Neoh #4586"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
-                    <img src="img/drops/3.jpg" alt="" />
+                    <img src="img/drops/3.jpeg" alt="" />
                     <a onClick={() => onClick(3)} className="full_link" />
                   </div>
                   <div className="title_holder">
@@ -124,14 +124,14 @@ const Drops = () => {
               <li>
                 <div
                   className="item"
-                  data-modal-image="img/drops/4.jpg"
+                  data-modal-image="img/drops/4.jpeg"
                   data-modal-title="Neoh #4585"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
-                    <img src="img/drops/4.jpg" alt="" />
+                    <img src="img/drops/4.jpeg" alt="" />
                     <a onClick={() => onClick(4)} className="full_link" />
                   </div>
                   <div className="title_holder">
@@ -144,14 +144,14 @@ const Drops = () => {
               <li>
                 <div
                   className="item"
-                  data-modal-image="img/drops/5.jpg"
+                  data-modal-image="img/drops/5.jpeg"
                   data-modal-title="Neoh #4584"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
-                    <img src="img/drops/5.jpg" alt="" />
+                    <img src="img/drops/5.jpeg" alt="" />
                     <a onClick={() => onClick(5)} className="full_link" />
                   </div>
                   <div className="title_holder">
@@ -164,14 +164,14 @@ const Drops = () => {
               <li>
                 <div
                   className="item"
-                  data-modal-image="img/drops/6.jpg"
+                  data-modal-image="img/drops/6.jpeg"
                   data-modal-title="Neoh #4583"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
                 >
                   <div className="img_holder">
-                    <img src="img/drops/6.jpg" alt="" />
+                    <img src="img/drops/6.jpeg" alt="" />
                     <a onClick={() => onClick(6)} className="full_link" />
                   </div>
                   <div className="title_holder">
