@@ -82,7 +82,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="#">
+                <Link legacyBehavior href="https://carbonstd.com/about">
                   Legal Documents
                 </Link>
               </li>
