@@ -7,27 +7,27 @@ const Drops = () => {
   const [data, setData] = useState({ img: "", title: "" });
   const dropData = [
     {
-      img: "img/drops/1.jpg",
-      title: "Neoh #4588",
+      img: "img/drops/1.jpeg",
+      title: "CarbonStd #22",
     },
     {
-      img: "img/drops/2.jpg",
-      title: "Neoh #4587",
+      img: "img/drops/2.jpeg",
+      title: "CarbonStd #204",
     },
     {
-      img: "img/drops/3.jpg",
+      img: "img/drops/3.jpeg",
       title: "Neoh #4586",
     },
     {
-      img: "img/drops/4.jpg",
+      img: "img/drops/4.jpeg",
       title: "Neoh #4585",
     },
     {
-      img: "img/drops/5.jpg",
+      img: "img/drops/5.jpeg",
       title: "Neoh #4584",
     },
     {
-      img: "img/drops/6.jpg",
+      img: "img/drops/6.jpeg",
       title: "Neoh #4583",
     },
   ];
