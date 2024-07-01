@@ -115,7 +115,7 @@ const Header = () => {
         <div className={`nav_footer ${toggle ? "ready" : ""}`}>
           <div className="nf_left">
             <p>
-              Copyright {new Date().getFullYear()}- The Future Is Green.
+            Copyright@Carbon.Std{new Date().getFullYear()}
             </p>
           </div>
           <div className="nf_right">

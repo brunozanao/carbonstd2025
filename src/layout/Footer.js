@@ -74,7 +74,7 @@ const Footer = () => {
             <div className="fb_in">
               <div className="fb_left">
                 <p>
-                  Copyright {new Date().getFullYear()} - The Future Is Green
+                Copyright@Carbon.Std{new Date().getFullYear()}
                   {/* <a
                     href="https://themeforest.net/user/codeefly/portfolio"
                     target="_blank"
