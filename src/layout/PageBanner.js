@@ -15,13 +15,13 @@ const PageBanner = ({ pageName }) => {
           >
             {pageName}
           </h3>
-          <p className="fn_desc">
+          {/* <p className="fn_desc">
             <Link legacyBehavior href="/">
               <a>Home</a>
             </Link>
             <span className="separator">/</span>
             <span className="current">{pageName}</span>
-          </p>
+          </p> */}
         </div>
       </div>
     </div>
