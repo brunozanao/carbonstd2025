@@ -176,7 +176,7 @@ const Index = () => {
                       </div>
                       <div className="title_holder">
                         <h3 className="fn_title">Bruno Zanão</h3>
-                        <p className="fn_desc">Web Designer</p>
+                        <p className="fn_desc">Web Developer</p>
                       </div>
                     </div>
                     <div className="person_social">
