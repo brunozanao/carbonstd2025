@@ -27,7 +27,7 @@ const Index = () => {
               𝗦𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗕𝗼𝗻𝗱𝘀 + 𝗡𝗙𝗧 = 𝗥𝗲𝗙𝗶
               </h2>
               <p className="fn_desc fn_animated_text">
-              The Future is Green, And it Goes Beyond the Carbon Market and Blockchain.
+              The Future Is Green, and Goes Beyond the Carbon Market and Blockchain.
               </p>
             </div>
           </div>
