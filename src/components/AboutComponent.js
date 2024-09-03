@@ -102,7 +102,7 @@ const AboutComponent = () => {
                   </p>
             </div>
             <div className="buttons">
-              <a
+            <a
                 href="https://carbonstd.com/buynow"
                 target="_blank"
                 rel="noreferrer"
@@ -112,6 +112,17 @@ const AboutComponent = () => {
                   <img src="svg/coins.svg" alt="" className="fn__svg" />
                 </span>
                 <span className="text">Buy Now</span>
+              </a>
+              <a
+                href="https://carbonstd.com/gallery"
+                target="_blank"
+                rel="noreferrer"
+                className="neoh_fn_button"
+              >
+                <span className="icon">
+                  <img src="svg/gallery.svg" alt="" className="fn__svg" />
+                </span>
+                <span className="text">Gallery</span>
               </a>
             </div>
           </div>
