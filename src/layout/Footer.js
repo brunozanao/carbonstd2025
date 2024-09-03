@@ -18,7 +18,7 @@ const Footer = () => {
                   posuere nibh a mi molestie, sit amet ornare
                 </p> */}
               </div>
-              <div className="subscribe_form">
+              {/* <div className="subscribe_form">
                 <div className="subscribe_in">
                   <input type="text" placeholder="Email..." />
                   <a href="#" className="neoh_fn_button only_text">
@@ -34,7 +34,7 @@ const Footer = () => {
                 <div className="empty_notice">
                   <span>Please enter your Email</span>
                 </div>
-              </div>
+              </div> */}
               <div className="neoh_fn_social_list">
                 <ul>
                   <li>
