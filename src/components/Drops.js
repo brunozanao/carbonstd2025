@@ -51,16 +51,16 @@ const Drops = () => {
       <section id="drop">
         <div className="container">
           {/* Main Title */}
-          <div className="neoh_fn_title">
+          {/* <div className="neoh_fn_title">
             <h3 className="fn_title">Our Collection</h3>
             <div className="line">
               <span />
             </div>
-          </div>
+          </div> */}
           {/* !Main Title */}
           {/* Drops List */}
           <div className="neoh_fn_drops">
-            <ul>
+            {/* <ul>
               <li>
                 <div
                   className="item"
@@ -181,7 +181,7 @@ const Drops = () => {
                   </div>
                 </div>
               </li>
-            </ul>
+            </ul> */}
             {/* Clearfix */}
             <div className="clearfix" />
           </div>
