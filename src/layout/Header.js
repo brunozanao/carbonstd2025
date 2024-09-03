@@ -67,7 +67,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://opensea.io/CarbonStd">
+                <Link legacyBehavior href="https://carbonstd.com/buynow">
                   Buy Now
                 </Link>
               </li>
