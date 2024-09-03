@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="img">
                   <img src="img/footer-logo.png" alt="" />
                 </div>
-                <h3 className="fn_title">Join Now For Early Access</h3>
+                <h3 className="fn_title">The Future Is Green, and Goes Beyond the Carbon Market and Blockchain.</h3>
                 {/* <p className="fn_desc">
                   Morbi non dignissim erat, a blandit felis nec lorem vel orci
                   varius congue ut vitae est. Nam quis tempus nisl. Fusce
