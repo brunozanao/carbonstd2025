@@ -109,7 +109,7 @@ const AboutComponent = () => {
                 className="neoh_fn_button"
               >
                 <span className="icon">
-                  <img src="svg/coins.png" alt="" className="fn__svg" />
+                  <img src="svg/coins.svg" alt="" className="fn__svg" />
                 </span>
                 <span className="text">Buy Now</span>
               </a>
