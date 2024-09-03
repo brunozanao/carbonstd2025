@@ -341,7 +341,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">HUMANS</span>
+                    <span className="text">ROBOTS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}
@@ -350,7 +350,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(2)}>
                   <a onClick={() => onClick(2)}>
-                    <span className="text">ROBOTS</span>
+                    <span className="text">HUMANS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(2)}%)` }}
