@@ -3,19 +3,13 @@ import PageBanner from "@/layout/PageBanner";
 
 const About = () => {
   return (
-    <Layout pageName={"Buy Now"}>
-      <PageBanner pageName={"Buy Now"} />
+    <Layout pageName={"Carbon.Std Collection"}>
+      <PageBanner pageName={"Carbon.Std Collection"} />
       <div className="neoh_fn_aboutpage">
         <section id="information">
           <div className="container">
             <div className="neoh_fn_about_item">
               <div className="content_item">
-                <div className="neoh_fn_title" data-align="left">
-                  <h3 className="fn_title">Carbon.Std</h3>
-                  <div className="line">
-                    <span />
-                  </div>
-                </div>
               </div>
             </div>
             {/* Inserting the iframe here */}

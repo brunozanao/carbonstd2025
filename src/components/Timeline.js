@@ -24,7 +24,7 @@ const Timeline = () => {
         {/* Timeline Content */}
         <div className="timeline_content">
           <ul className="timeline_list">
-            <li className={`timeline_item ${activeClass(1)}`} data-index={1}>
+            <li className={`timeline_item ${activeClass(2)}`} data-index={2}>
               <div className="t_item">
                 <div className="t_item_img">
                   <div className="neoh_fn_gallery_1_2">
@@ -63,7 +63,7 @@ const Timeline = () => {
                 </div>
               </div>
             </li>
-            <li className={`timeline_item ${activeClass(2)}`} data-index={2}>
+            <li className={`timeline_item ${activeClass(1)}`} data-index={1}>
               <div className="t_item">
                 <div className="t_item_img">
                   <div className="neoh_fn_gallery_1_2">
