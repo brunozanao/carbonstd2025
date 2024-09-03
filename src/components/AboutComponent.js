@@ -3,7 +3,7 @@ const AboutComponent = () => {
   return (
     <section id="about">
       <div className="container">
-        {/* About Item #1 */}
+        {/* About Item #1 */}<br></br>
         <div className="neoh_fn_about_item">
           <div className="img_item">
             <img src="img/about/1.jpg" alt="" />
