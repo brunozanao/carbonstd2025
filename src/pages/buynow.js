@@ -6,7 +6,7 @@ const About = () => {
     <Layout pageName={"Carbon.Std Collection"}>
       <PageBanner pageName={"Carbon.Std Collection"} />
       <div className="neoh_fn_aboutpage">
-        <section id="information">
+        <section>
           <div className="container">
             <div className="neoh_fn_about_item">
             </div>
