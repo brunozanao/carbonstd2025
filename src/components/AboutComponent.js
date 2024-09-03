@@ -57,7 +57,7 @@ const AboutComponent = () => {
               </a>
             </div>
           </div>
-        </div>
+        </div><br></br><br></br>
         {/* !About Item #1 */}
         {/* About Item #2 */}
         <div className="neoh_fn_about_item reverse">
@@ -84,10 +84,10 @@ const AboutComponent = () => {
               </Link>
             </div>
           </div>
-        </div>
+        </div><br></br><br></br>
         <div className="neoh_fn_about_item">
           <div className="img_item">
-            <img src="img/about/1.jpg" alt="" />
+            <img src="img/about/3.jpg" alt="" />
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
@@ -103,13 +103,13 @@ const AboutComponent = () => {
             </div>
             <div className="buttons">
               <a
-                href="https://opensea.io/CarbonStd"
+                href="https://carbonstd.com/buynow"
                 target="_blank"
                 rel="noreferrer"
                 className="neoh_fn_button"
               >
                 <span className="icon">
-                  <img src="svg/opensea.svg" alt="" className="fn__svg" />
+                  <img src="svg/ethereum.png" alt="" className="fn__svg" />
                 </span>
                 <span className="text">Buy Now</span>
               </a>
