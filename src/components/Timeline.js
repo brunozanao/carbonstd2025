@@ -43,7 +43,7 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>HUMANS</span>
+                    <span>ROBOTS</span>
                   </p>
                   {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
@@ -82,7 +82,7 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>ROBOTS</span>
+                    <span>HUMANS</span>
                   </p>
                   {/* <h3 className="fn_title">
                     <Link legacyBehavior href="/roadmap-single">
