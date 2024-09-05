@@ -12,10 +12,10 @@ const ServicesComponent = () => {
         alt=""
         className="fn__svg fn__divider bottom_divider"
       />
-      {/* !Dividers */}<br></br><br></br>
+      {/* !Dividers */}
       <div className="container">
         {/* Main Title */}
-        <div className="neoh_fn_title">
+        <div className="neoh_fn_title"><br></br><br></br>
           <h3 className="fn_title">A Universe Composed of Various Rarities</h3>
           <div className="line">
             <span />
