@@ -10,7 +10,7 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">The Future Of Humanity.</h3>
+              <h3 className="fn_title">The Future Of Humanity</h3>
               <div className="line">
                 <span />
               </div>
