@@ -24,6 +24,46 @@ const Timeline = () => {
         {/* Timeline Content */}
         <div className="timeline_content">
           <ul className="timeline_list">
+          <li className={`timeline_item ${activeClass(2)}`} data-index={2}>
+            <div className="t_item">
+                <div className="t_item_img">
+                  <div className="neoh_fn_gallery_1_2">
+                    <div className="gallery_in">
+                      <div className="item row2">
+                        <img src="img/timeline/1/1.jpeg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/1/2.jpeg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/1/3.jpeg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="t_item_info">
+                  <p className="fn_date">
+                    <span>HUMANS</span>
+                  </p>
+                  {/* <h3 className="fn_title">
+                    <Link legacyBehavior href="/roadmap-single">
+                    Humans
+                    </Link>
+                  </h3> */}
+                  <p className="fn_desc">
+                  Are driven by curiosity and ambition, always seeking to acquire more knowledge.
+                  </p>
+                  <p className="fn_read">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
+                      <a className="neoh_fn_button only_text">
+                        <span className="text">Read More</span>
+                      </a>
+                    </Link>
+                  </p>
+                </div>
+              </div>
+            </li>
+            
             <li className={`timeline_item ${activeClass(1)}`} data-index={1}>
               
             <div className="t_item">
@@ -53,45 +93,6 @@ const Timeline = () => {
                   </h3> */}
                   <p className="fn_desc">
                   Are unpredictable in their self-awareness, striving to be recognized as intelligent life.
-                  </p>
-                  <p className="fn_read">
-                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
-                      <a className="neoh_fn_button only_text">
-                        <span className="text">Read More</span>
-                      </a>
-                    </Link>
-                  </p>
-                </div>
-              </div>
-            </li>
-            <li className={`timeline_item ${activeClass(2)}`} data-index={2}>
-            <div className="t_item">
-                <div className="t_item_img">
-                  <div className="neoh_fn_gallery_1_2">
-                    <div className="gallery_in">
-                      <div className="item row2">
-                        <img src="img/timeline/1/1.jpeg" alt="" />
-                      </div>
-                      <div className="item">
-                        <img src="img/timeline/1/2.jpeg" alt="" />
-                      </div>
-                      <div className="item">
-                        <img src="img/timeline/1/3.jpeg" alt="" />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="t_item_info">
-                  <p className="fn_date">
-                    <span>HUMANS</span>
-                  </p>
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                    Humans
-                    </Link>
-                  </h3> */}
-                  <p className="fn_desc">
-                  Are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="https://opensea.io/CarbonStd">
