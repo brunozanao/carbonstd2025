@@ -11,17 +11,13 @@ const Timeline = () => {
   const filter = (value) => (100 / active) * value;
   return (
     <Fragment>
-      {/* Main Title */}
       <div className="neoh_fn_title">
         <h3 className="fn_title">A Universe of Various Rarities</h3>
         <div className="line">
           <span />
         </div>
       </div>
-      {/* !Main Title */}
-      {/* Timeline */}
       <div className="neoh_fn_timeline">
-        {/* Timeline Content */}
         <div className="timeline_content">
           <ul className="timeline_list">
             <li className={`timeline_item ${activeClass(1)}`} data-index={1}>
@@ -47,11 +43,6 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>HUMANS</span>
                   </p>
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                    Humans
-                    </Link>
-                  </h3> */}
                   <p className="fn_desc">
                   Are driven by curiosity and ambition, always seeking to acquire more knowledge.
                   </p>
@@ -87,11 +78,6 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ROBOTS</span>
                   </p>
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      Robots
-                    </Link>
-                  </h3> */}
                   <p className="fn_desc">
                   Are unpredictable in their self-awareness, striving to be recognized as intelligent life.
                   </p>
@@ -127,11 +113,6 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ZENON</span>
                   </p>
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      Zenon
-                    </Link>
-                  </h3> */}
                   <p className="fn_desc">
                   Are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
@@ -166,11 +147,6 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ECOANS</span>
                   </p>
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      Ecoans
-                    </Link>
-                  </h3> */}
                   <p className="fn_desc">
                   Are humans who have merged their spirits with ethereal forces, transforming into a new race.
                   </p>
@@ -205,11 +181,6 @@ const Timeline = () => {
                   <p className="fn_date">
                     <span>ABYSSUS</span>
                   </p>
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      Abyssus
-                    </Link>
-                  </h3> */}
                   <p className="fn_desc">
                   Are abyssal creatures that were summoned against their will.
                   </p>
@@ -240,26 +211,6 @@ const Timeline = () => {
                     </div>
                   </div>
                 </div>
-                {/* <div className="t_item_info">
-                  <p className="fn_date">
-                    <span>UNDEFINED</span>
-                  </p> */}
-                  {/* <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      Undefined
-                    </Link>
-                  </h3> */}
-                  {/* <p className="fn_desc">
-                  What do you hope for the future? a lot still has to happen.
-                  </p>
-                  <p className="fn_read">
-                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
-                      <a className="neoh_fn_button only_text">
-                        <span className="text">Read More</span>
-                      </a>
-                    </Link>
-                  </p>
-                </div> */}
               </div>
             </li>
             <li className={`timeline_item ${activeClass(7)}`} data-index={7}>
@@ -279,37 +230,11 @@ const Timeline = () => {
                     </div>
                   </div>
                 </div>
-                {/* <div className="t_item_info">
-                  <p className="fn_date">
-                    <span>July 01, 2022</span>
-                  </p>
-                  <h3 className="fn_title">
-                    <Link legacyBehavior href="/roadmap-single">
-                      New Haircut Collection #02 is Coming Up
-                    </Link>
-                  </h3>
-                  <p className="fn_desc">
-                    Morbi non dignissim erat, a blandit felis. Suspendisse nec
-                    lorem vel orci varius congue ut vitae est. Nam quis tempus
-                    nisl. Fusce posuere nibh a mi molestie, sit amet ornare
-                    lectus interdum.
-                  </p>
-                  <p className="fn_read">
-                    <Link legacyBehavior href="/roadmap-single">
-                      <a className="neoh_fn_button only_text">
-                        <span className="text">Read More</span>
-                      </a>
-                    </Link>
-                  </p>
-                </div> */}
               </div>
             </li>
           </ul>
         </div>
-        {/* !Timeline Content */}
-        {/* Timeline Progress */}
         <div className="timeline_progress">
-          {/* Nav */}
           <a
             className="nav_prev c-pointer"
             onClick={() =>
@@ -330,7 +255,6 @@ const Timeline = () => {
           >
             <img src="svg/right-arr.svg" alt="" className="fn__svg" />
           </a>
-          {/* !Nav */}
           <div className="progress_line_wrapper">
             <div
               className="progress_line"
@@ -387,32 +311,12 @@ const Timeline = () => {
                     />
                   </a>
                 </li>
-                {/* <li className={activeClass(6)}>
-                  <a onClick={() => onClick(6)}>
-                    <span className="text">UNDEFINED</span>
-                    <span
-                      className="circle"
-                      style={{ filter: `brightness(${filter(6)}%)` }}
-                    />
-                  </a>
-                </li> */}
-                {/* <li className={activeClass(7)}>
-                  <a onClick={() => onClick(7)}>
-                    <span className="text">UNDEFINED</span>
-                    <span
-                      className="circle"
-                      style={{ filter: `brightness(${filter(7)}%)` }}
-                    />
-                  </a>
-                </li> */}
               </ul>
               <span className="active_line" />
             </div>
           </div>
         </div>
-        {/* !Timeline Progress */}
       </div>
-      {/* !Timeline */}
     </Fragment>
   );
 };
