@@ -51,7 +51,6 @@ const Index = () => {
       {/* !Services Section */}
       <Drops />
       {/* Investor Section */}
-      <WhyChooseUsComponent />
       {/* Team Section */}
       <section id="team">
           <div className="container">
@@ -200,6 +199,7 @@ const Index = () => {
             {/* !Team List Shortcode */}
           </div>
         </section>
+        <WhyChooseUsComponent />
         {/* !Team Section */}
       {/* !Investor Section */}
       {/* Blog Section */}
