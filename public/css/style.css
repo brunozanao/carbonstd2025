@@ -929,7 +929,7 @@ a.full_link{
 }
 /* Drops List Shortcode */
 #drop .neoh_fn_drops{
-	margin-bottom: 143px;
+	margin-bottom: 0px;
 }
 .neoh_fn_drops ul{
 	display: -webkit-flex;
