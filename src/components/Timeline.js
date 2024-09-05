@@ -116,7 +116,7 @@ const Timeline = () => {
                     <span>ZENON</span>
                   </p>
                   <p className="fn_desc">
-                    Are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
+                  Are beings of primordial energy, known by many names throughout history. Humans try to understand and connect with them through folklore, religions, and rituals.
                   </p>
                   <p className="fn_read">
                     <Link legacyBehavior href="https://opensea.io/CarbonStd">
@@ -128,7 +128,112 @@ const Timeline = () => {
                 </div>
               </div>
             </li>
-            {/* Continuação dos demais itens */}
+            <li className={`timeline_item ${activeClass(4)}`} data-index={4}>
+              <div className="t_item">
+                <div className="t_item_img">
+                  <div className="neoh_fn_gallery_1_2">
+                    <div className="gallery_in">
+                      <div className="item row2">
+                        <img src="img/timeline/4/1.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/4/2.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/4/3.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="t_item_info">
+                  <p className="fn_date">
+                    <span>ECOANS</span>
+                  </p>
+                  <p className="fn_desc">
+                  Are humans who have merged their spirits with ethereal forces, transforming into a new race.
+                  </p>
+                  <p className="fn_read">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
+                      <a className="neoh_fn_button only_text">
+                        <span className="text">Read More</span>
+                      </a>
+                    </Link>
+                  </p>
+                </div>
+              </div>
+            </li>
+            <li className={`timeline_item ${activeClass(5)}`} data-index={5}>
+              <div className="t_item">
+                <div className="t_item_img">
+                  <div className="neoh_fn_gallery_1_2">
+                    <div className="gallery_in">
+                      <div className="item row2">
+                        <img src="img/timeline/5/1.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/5/2.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/5/3.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="t_item_info">
+                  <p className="fn_date">
+                    <span>ABYSSUS</span>
+                  </p>
+                  <p className="fn_desc">
+                  Are abyssal creatures that were summoned against their will.
+                  </p>
+                  <p className="fn_read">
+                    <Link legacyBehavior href="https://opensea.io/CarbonStd">
+                      <a className="neoh_fn_button only_text">
+                        <span className="text">Read More</span>
+                      </a>
+                    </Link>
+                  </p>
+                </div>
+              </div>
+            </li>
+            <li className={`timeline_item ${activeClass(6)}`} data-index={6}>
+              <div className="t_item">
+                <div className="t_item_img">
+                  <div className="neoh_fn_gallery_1_2">
+                    <div className="gallery_in">
+                      <div className="item row2">
+                        <img src="img/timeline/6/1.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/6/2.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/6/3.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li className={`timeline_item ${activeClass(7)}`} data-index={7}>
+              <div className="t_item">
+                <div className="t_item_img">
+                  <div className="neoh_fn_gallery_1_2">
+                    <div className="gallery_in">
+                      <div className="item row2">
+                        <img src="img/timeline/7/1.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/7/2.jpg" alt="" />
+                      </div>
+                      <div className="item">
+                        <img src="img/timeline/7/3.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
           </ul>
         </div>
         <div className="timeline_progress">
