@@ -24,8 +24,10 @@ const Timeline = () => {
         {/* Timeline Content */}
         <div className="timeline_content">
           <ul className="timeline_list">
-          <li className={`timeline_item ${activeClass(2)}`} data-index={2}>
-            <div className="t_item">
+            <li className={`timeline_item ${activeClass(1)}`} data-index={1}>
+            
+
+              <div className="t_item">
                 <div className="t_item_img">
                   <div className="neoh_fn_gallery_1_2">
                     <div className="gallery_in">
@@ -63,9 +65,8 @@ const Timeline = () => {
                 </div>
               </div>
             </li>
+            <li className={`timeline_item ${activeClass(2)}`} data-index={2}>
             
-            <li className={`timeline_item ${activeClass(1)}`} data-index={1}>
-              
             <div className="t_item">
                 <div className="t_item_img">
                   <div className="neoh_fn_gallery_1_2">
@@ -103,6 +104,7 @@ const Timeline = () => {
                   </p>
                 </div>
               </div>
+
             </li>
             <li className={`timeline_item ${activeClass(3)}`} data-index={3}>
               <div className="t_item">
@@ -342,7 +344,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">ROBOTS</span>
+                    <span className="text">HUMANS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}
@@ -351,7 +353,7 @@ const Timeline = () => {
                 </li>
                 <li className={activeClass(2)}>
                   <a onClick={() => onClick(2)}>
-                    <span className="text">HUMANS</span>
+                    <span className="text">ROBOTS</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(2)}%)` }}
