@@ -314,7 +314,7 @@ const Timeline = () => {
             className="nav_prev c-pointer"
             onClick={() =>
               setActiveTimeline(
-                activeTimeline == 0 ? activeTimeline : activeTimeline - 1
+                activeTimeline == 2 ? activeTimeline : activeTimeline - 1
               )
             }
           >
