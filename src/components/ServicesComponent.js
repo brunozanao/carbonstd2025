@@ -15,7 +15,7 @@ const ServicesComponent = () => {
       {/* !Dividers */}
       <div className="container">
         {/* Main Title */}
-        <div className="neoh_fn_title"><br><br><br><br>
+        <div className="neoh_fn_title"><br></br><br></br><br></br>
           <h3 className="fn_title">A Universe Composed of Various Rarities</h3>
           <div className="line">
             <span />
