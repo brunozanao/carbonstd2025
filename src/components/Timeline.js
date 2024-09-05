@@ -189,8 +189,24 @@ const Timeline = () => {
                       style={{ filter: `brightness(${filter(3)}%)` }}
                     />
                   </a>
+                </li><li className={activeClass(4)}>
+                  <a onClick={() => onClick(4)}>
+                    <span className="text">ECOANS</span>
+                    <span
+                      className="circle"
+                      style={{ filter: `brightness(${filter(4)}%)` }}
+                    />
+                  </a>
                 </li>
-                {/* Continuação dos demais itens */}
+                <li className={activeClass(5)}>
+                  <a onClick={() => onClick(5)}>
+                    <span className="text">ABYSSUS</span>
+                    <span
+                      className="circle"
+                      style={{ filter: `brightness(${filter(5)}%)` }}
+                    />
+                  </a>
+                </li>
               </ul>
               <span className="active_line" />
             </div>
@@ -200,5 +216,4 @@ const Timeline = () => {
     </Fragment>
   );
 };
-
 export default Timeline;
