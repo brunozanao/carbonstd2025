@@ -45,7 +45,7 @@ const Header = () => {
                   Our Team
                 </Link>
               </li>
-              <li className="menu-item">
+              <li className="menu-item" target="_blank">
                 <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon-credit">
                   Our Carbon
                 </Link>
