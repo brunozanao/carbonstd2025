@@ -3,13 +3,7 @@ import { Fragment, useState } from "react";
 
 const Header = () => {
   const [toggle, setToggle] = useState(false);
-
-  const handleClick = (isAnchor) => {
-    if (isAnchor) {
-      setToggle(false); // Fechar o menu ao clicar em âncoras
-    }
-  };
-
+  const [homeToggle, setHomeToggle] = useState(false);
   return (
     <Fragment>
       <div
@@ -33,107 +27,61 @@ const Header = () => {
               <li className="menu-item menu-item-has-children">
                 <a
                   href="https://carbonstd.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    setHomeToggle(!homeToggle);
+                  }}
                 >
                   Home
                 </a>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="#about"
-                  onClick={() => handleClick(true)}
-                >
+                <Link legacyBehavior href="#about">
                   Manifest
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="#team"
-                  onClick={() => handleClick(true)}
-                >
+                <Link legacyBehavior href="#team">
                   Our Team
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.gitbook.io/governance/carbon-credit"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon-credit">
                   Our Carbon
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.gitbook.io/whitepaper/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/whitepaper/">
                   Whitepaper
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.gitbook.io/governance/roadmap"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/roadmap">
                   Roadmap
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.gitbook.io/carbon.std"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/carbon.std">
                   Governance
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.com/buynow"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.com/buynow">
                   Buy Now
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.gitbook.io/governance/treasury-vault"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/treasury-vault">
                   Treasury Vault
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.gitbook.io/governance/carbon.std-dao"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  DAO Platform
+                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon.std-dao" _black>
+                  DAO Plataform
                 </Link>
               </li>
               <li className="menu-item">
-                <Link
-                  legacyBehavior
-                  href="https://carbonstd.com/legaldocuments"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link legacyBehavior href="https://carbonstd.com/legaldocuments">
                   Legal Documents
                 </Link>
               </li>
@@ -144,7 +92,6 @@ const Header = () => {
               href="https://opensea.io/"
               className="neoh_fn_button"
               target="_blank"
-              rel="noopener noreferrer"
             >
               <span className="icon">
                 <img src="svg/opensea.svg" alt="" className="fn__svg" />
@@ -155,7 +102,6 @@ const Header = () => {
               href="https://discord.com/"
               className="neoh_fn_button"
               target="_blank"
-              rel="noopener noreferrer"
             >
               <span className="icon">
                 <img src="svg/discord.svg" alt="" className="fn__svg" />
@@ -166,26 +112,20 @@ const Header = () => {
         </div>
         <div className={`nav_footer ${toggle ? "ready" : ""}`}>
           <div className="nf_left">
-            <p>Copyright@Carbon.Std{new Date().getFullYear()}</p>
+            <p>
+            Copyright@Carbon.Std{new Date().getFullYear()}
+            </p>
           </div>
           <div className="nf_right">
             <div className="neoh_fn_social_list">
               <ul>
                 <li>
-                  <a
-                    href="https://x.com/carbonstd?s=21&t=nVja-RUzpdKwKqRLWJb-Jw"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://x.com/carbonstd?s=21&t=nVja-RUzpdKwKqRLWJb-Jw">
                     <i className="fn-icon-twitter" />
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.instagram.com/carbon.standard?igsh=ZWJqZnhpNXBhenly"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://www.instagram.com/carbon.standard?igsh=ZWJqZnhpNXBhenly">
                     <i className="fn-icon-instagram" />
                   </a>
                 </li>
@@ -217,8 +157,8 @@ const Header = () => {
           </div>
         </div>
       </header>
+      {/* !Header */}
     </Fragment>
   );
 };
-
 export default Header;
