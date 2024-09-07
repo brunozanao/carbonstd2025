@@ -51,19 +51,19 @@ const Header = () => {
                 </a>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://carbonstd.gitbook.io/whitepaper/">
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/whitepaper/">
                   Whitepaper
-                </Link>
+                </a>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/roadmap">
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/governance/roadmap">
                   Roadmap
-                </Link>
+                </a>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://carbonstd.gitbook.io/carbon.std">
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/carbon.std">
                   Governance
-                </Link>
+                </a>
               </li>
               <li className="menu-item">
                 <Link legacyBehavior href="https://carbonstd.com/buynow">
@@ -71,14 +71,14 @@ const Header = () => {
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/treasury-vault">
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/governance/treasury-vault">
                   Treasury Vault
-                </Link>
+                </a>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon.std-dao" _black>
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon.std-dao" _black>
                   DAO Plataform
-                </Link>
+                </a>
               </li>
               <li className="menu-item">
                 <Link legacyBehavior href="https://carbonstd.com/legaldocuments">
