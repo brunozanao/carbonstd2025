@@ -46,9 +46,9 @@ const Header = () => {
                 </Link>
               </li>
               <li className="menu-item">
-                <Link legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon-credit" target="_blank">
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/governance/carbon-credit">
                   Our Carbon
-                </Link>
+                </a>
               </li>
               <li className="menu-item">
                 <Link legacyBehavior href="https://carbonstd.gitbook.io/whitepaper/">
