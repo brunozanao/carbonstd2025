@@ -77,11 +77,7 @@ const AboutComponent = () => {
               </p>
             </div>
             <div className="buttons">
-              <link target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/carbon.std">
-                <a className="neoh_fn_button only_text">
-                  <span className="text">More About US</span>
-                </a>
-              </link>
+              <link legacyBehavior><a target="_blank" href="https://carbonstd.gitbook.io/carbon.std" class="neoh_fn_button only_text"><span class="text">More About US</span></a></link>
             </div>
           </div>
         </div><br></br><br></br>
