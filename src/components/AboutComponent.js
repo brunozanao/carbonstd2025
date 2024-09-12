@@ -77,11 +77,11 @@ const AboutComponent = () => {
               </p>
             </div>
             <div className="buttons">
-              <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/carbon.std">
-                <a className="neoh_fn_button only_text">
+              <link>
+                <a target="_blank" legacyBehavior href="https://carbonstd.gitbook.io/carbon.std" className="neoh_fn_button only_text">
                   <span className="text">More About US</span>
                 </a>
-              </a>
+              </link>
             </div>
           </div>
         </div><br></br><br></br>
