@@ -98,7 +98,7 @@ const AboutComponent = () => {
             </div>
             <div className="desc">
             <p>
-                  In the vast greenery of the Forests, where the sounds of nature weave a divine symphony and the vegetation stands as a living testament to the wonder of creation, we, at Carbon.Std, uphold our commitment as guardians of tomorrow.
+            Connect with the essence of nature and become part of a preservation legacy. Acquire an edition from the Carbon.Std collection and join us in the mission to protect the forests, ensuring a green and vibrant tomorrow for future generations.
                   </p>
             </div>
             <div className="buttons">
