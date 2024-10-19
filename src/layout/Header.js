@@ -80,7 +80,7 @@ const Header = () => {
                 </a>
               </li>
               <li className="menu-item">
-                <Link href="https://carbonstd.com/buynow">
+                <Link href="https://pro.opensea.io/profile/0x20155C4766d4e211A011fDDB343714c1AbF56a4B">
                   Buy Now
                 </Link>
               </li>

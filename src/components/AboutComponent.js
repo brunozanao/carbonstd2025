@@ -34,7 +34,7 @@ const AboutComponent = () => {
             </div>
             <div className="buttons">
             <a
-                href="https://carbonstd.com/buynow"
+                href="https://pro.opensea.io/profile/0x20155C4766d4e211A011fDDB343714c1AbF56a4B"
                 target="_blank"
                 rel="noreferrer"
                 className="neoh_fn_button"
